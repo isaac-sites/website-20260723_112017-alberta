@@ -414,89 +414,89 @@ For readers studying Yukon UFO history, the most reliable approach is straightfo
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Does Interpretation Become Cultural Projection?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Does Interpretation Become Cultural Projection?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decolonizing+Methodologies%3A+Research+and+Indigenous+Peoples+Linda+Tuhiwai+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decolonizing Methodologies: Research and Indigenous Peoples on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CUEsEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decolonizing Methodologies: Research and Indigenous Peoples" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Decolonizing+Methodologies%3A+Research+and+Indigenous+Peoples+Linda+Tuhiwai+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decolonizing Methodologies: Research and Indigenous Peoples">Decolonizing Methodologies: Research and Indigenous Peoples</a>
-</h4>
-<p class="fr-book-author">By Linda Tuhiwai Smith</p>
-        
-<p class="fr-book-desc">To the colonized, the term &#x27;research&#x27; is conflated with European colonialism; the ways in which academic research has been implicated in...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Decolonizing+Methodologies%3A+Research+and+Indigenous+Peoples+Linda+Tuhiwai+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decolonizing+Methodologies%3A+Research+and+Indigenous+Peoples+Linda+Tuhiwai+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decolonizing Methodologies: Research and Indigenous Peoples on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CUEsEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Decolonizing Methodologies: Research and Indigenous Peoples" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Decolonizing+Methodologies%3A+Research+and+Indigenous+Peoples+Linda+Tuhiwai+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decolonizing Methodologies: Research and Indigenous Peoples">Decolonizing Methodologies: Research and Indigenous Peoples</a>
+        </h4>
+        <p class="fr-book-author">By Linda Tuhiwai Smith</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Research+Is+Ceremony%3A+Indigenous+Research+Methods+Shawn+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Research Is Ceremony: Indigenous Research Methods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mQF0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Research Is Ceremony: Indigenous Research Methods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Research+Is+Ceremony%3A+Indigenous+Research+Methods+Shawn+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Research Is Ceremony: Indigenous Research Methods">Research Is Ceremony: Indigenous Research Methods</a>
-</h4>
-<p class="fr-book-author">By Shawn Wilson</p>
-        
-<p class="fr-book-desc">Indigenous researchers are knowledge seekers who work to progress Indigenous ways of being, knowing and doing in a modern and constantly...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Research+Is+Ceremony%3A+Indigenous+Research+Methods+Shawn+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">To the colonized, the term &#x27;research&#x27; is conflated with European colonialism; the ways in which academic research has been implicated in...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Decolonizing+Methodologies%3A+Research+and+Indigenous+Peoples+Linda+Tuhiwai+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Seven Sins of Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=m8qMjPF1NYAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Seven Sins of Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Seven Sins of Memory">The Seven Sins of Memory</a>
-</h4>
-<p class="fr-book-author">By Daniel L. Schacter</p>
-<p class="fr-book-popularity">Rating: 3.5/5 from 5 Google Books ratings</p>
-<p class="fr-book-desc">A New York Times Notable Book: A psychologist&#x27;s &quot;gripping and thought-provoking&quot; look at how and why our brains sometimes fail us (Steven...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Research+Is+Ceremony%3A+Indigenous+Research+Methods+Shawn+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Research Is Ceremony: Indigenous Research Methods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mQF0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Research Is Ceremony: Indigenous Research Methods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Research+Is+Ceremony%3A+Indigenous+Research+Methods+Shawn+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Research Is Ceremony: Indigenous Research Methods">Research Is Ceremony: Indigenous Research Methods</a>
+        </h4>
+        <p class="fr-book-author">By Shawn Wilson</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Braiding+Sweetgrass-+Indigenous+Wisdom%2C+Scientific+Knowledge+and+the+Teachings+of+Plants+by+Robin+Wall+Wall+Kimmerer+Wall+Kimmerer+%28author%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Braiding Sweetgrass- Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Braiding+Sweetgrass-+Indigenous+Wisdom%2C+Scientific+Knowledge+and+the+Teachings+of+Plants+by+Robin+Wall+Wall+Kimmerer+Wall+Kimmerer+%28author%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Braiding Sweetgrass- Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants">Braiding Sweetgrass- Indigenous Wisdom, Scientific Knowledge...</a>
-</h4>
-<p class="fr-book-author">By Robin Wall Wall Kimmerer Wall Kimmerer (author)</p>
-        
-        
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Braiding+Sweetgrass-+Indigenous+Wisdom%2C+Scientific+Knowledge+and+the+Teachings+of+Plants+by+Robin+Wall+Wall+Kimmerer+Wall+Kimmerer+%28author%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Indigenous researchers are knowledge seekers who work to progress Indigenous ways of being, knowing and doing in a modern and constantly...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Research+Is+Ceremony%3A+Indigenous+Research+Methods+Shawn+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decolonizing+Methodologies%3A+Research+and+Indigenous+Peoples&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decolonizing Methodologies: Research and Indigenous Peoples</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Research+Is+Ceremony%3A+Indigenous+Research+Methods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Research Is Ceremony: Indigenous Research Methods</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Seven Sins of Memory</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Seven Sins of Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=m8qMjPF1NYAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Seven Sins of Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Seven Sins of Memory">The Seven Sins of Memory</a>
+        </h4>
+        <p class="fr-book-author">By Daniel L. Schacter</p>
+        <p class="fr-book-popularity">Rating: 3.5/5 from 5 Google Books ratings</p>
+        <p class="fr-book-desc">A New York Times Notable Book: A psychologist&#x27;s &quot;gripping and thought-provoking&quot; look at how and why our brains sometimes fail us (Steven...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Braiding+Sweetgrass%3A+Indigenous+Wisdom%2C+Scientific+Knowledge+and+the+Teachings+of+Plants+Robin+Wall+Kimmerer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15239422-M.jpg" alt="Cover for Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Braiding+Sweetgrass%3A+Indigenous+Wisdom%2C+Scientific+Knowledge+and+the+Teachings+of+Plants+Robin+Wall+Kimmerer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants">Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge...</a>
+        </h4>
+        <p class="fr-book-author">By Robin Wall Kimmerer</p>
+        <p class="fr-book-popularity">Rating: 4.6/5 from 13 Google Books ratings</p>
+        <p class="fr-book-desc">First published 2013. Subjects: Botany, Ecology, Potawatomi Indians, Indian philosophy, Philosophy of nature.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Braiding+Sweetgrass%3A+Indigenous+Wisdom%2C+Scientific+Knowledge+and+the+Teachings+of+Plants+Robin+Wall+Kimmerer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decolonizing+Methodologies%3A+Research+and+Indigenous+Peoples&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decolonizing Methodologies: Research and Indigenous Peoples</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Research+Is+Ceremony%3A+Indigenous+Research+Methods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Research Is Ceremony: Indigenous Research Methods</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Seven Sins of Memory</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -407,89 +407,89 @@ For readers exploring Yukon's history of unusual aerial phenomena, the Tagish La
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Tagish Lake Stopped Being a UFO. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Tagish Lake Stopped Being a UFO. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites%3A+The+Story+of+Our+Solar+System+Tim+Gregory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites: The Story of Our Solar System on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0K-DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteorites: The Story of Our Solar System" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Meteorites%3A+The+Story+of+Our+Solar+System+Tim+Gregory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites: The Story of Our Solar System">Meteorites: The Story of Our Solar System</a>
-</h4>
-<p class="fr-book-author">By Tim Gregory</p>
-        
-<p class="fr-book-desc">Meteorite tells the fascinating story of the stones from outer space scattered across our planet. From the impact that finished off the d...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Meteorites%3A+The+Story+of+Our+Solar+System+Tim+Gregory&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorite%3A+The+Stones+from+Alien+Worlds+Tim+Gregory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorite: The Stones from Alien Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0K-DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteorite: The Stones from Alien Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Meteorite%3A+The+Stones+from+Alien+Worlds+Tim+Gregory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorite: The Stones from Alien Worlds">Meteorite: The Stones from Alien Worlds</a>
+        </h4>
+        <p class="fr-book-author">By Tim Gregory</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space%3A+Meteorites+and+Meteorite+Hunters+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space: Meteorites and Meteorite Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space: Meteorites and Meteorite Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Rocks+from+Space%3A+Meteorites+and+Meteorite+Hunters+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space: Meteorites and Meteorite Hunters">Rocks from Space: Meteorites and Meteorite Hunters</a>
-</h4>
-<p class="fr-book-author">By O. Richard Norton</p>
-        
-<p class="fr-book-desc">Appendices A-C: Meteorite verification laboratories, Commercial meteorite dealers, Selected list of suspected impact craters worldwide.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Rocks+from+Space%3A+Meteorites+and+Meteorite+Hunters+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Meteorite tells the fascinating story of the stones from outer space scattered across our planet. From the impact that finished off the d...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Meteorite%3A+The+Stones+from+Alien+Worlds+Tim+Gregory&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge Encyclopedia of Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J45wQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cambridge Encyclopedia of Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge Encyclopedia of Meteorites">The Cambridge Encyclopedia of Meteorites</a>
-</h4>
-<p class="fr-book-author">By O. Richard Norton</p>
-        
-<p class="fr-book-desc">Beautifully illustrated with over 140 full colour images, The Cambridge Encyclopedia of Meteorites provides a thorough guide to these fas...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space%3A+Meteorites+and+Meteorite+Hunters+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space: Meteorites and Meteorite Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space: Meteorites and Meteorite Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Rocks+from+Space%3A+Meteorites+and+Meteorite+Hunters+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space: Meteorites and Meteorite Hunters">Rocks from Space: Meteorites and Meteorite Hunters</a>
+        </h4>
+        <p class="fr-book-author">By O. Richard Norton</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Story+of+the+Solar+System+by+Mark+A.+Garlick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Story of the Solar System on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8XTH_0jVbBIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Story of the Solar System" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Story+of+the+Solar+System+by+Mark+A.+Garlick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Story of the Solar System">The Story of the Solar System</a>
-</h4>
-<p class="fr-book-author">By Mark A. Garlick</p>
-        
-<p class="fr-book-desc">The bodies of our Solar System have orbited continously around the Sun since their formation, but they have not always been there, and co...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Story+of+the+Solar+System+by+Mark+A.+Garlick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Appendices A-C: Meteorite verification laboratories, Commercial meteorite dealers, Selected list of suspected impact craters worldwide.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Rocks+from+Space%3A+Meteorites+and+Meteorite+Hunters+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites%3A+The+Story+of+Our+Solar+System&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites: The Story of Our Solar System</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space%3A+Meteorites+and+Meteorite+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space: Meteorites and Meteorite Hunters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cambridge Encyclopedia of Meteorites</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge Encyclopedia of Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J45wQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cambridge Encyclopedia of Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge Encyclopedia of Meteorites">The Cambridge Encyclopedia of Meteorites</a>
+        </h4>
+        <p class="fr-book-author">By O. Richard Norton</p>
+
+        <p class="fr-book-desc">Beautifully illustrated with over 140 full colour images, The Cambridge Encyclopedia of Meteorites provides a thorough guide to these fas...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites%3A+The+Story+of+Our+Solar+System+Tim+Gregory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites: The Story of Our Solar System on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0K-DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteorites: The Story of Our Solar System" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Meteorites%3A+The+Story+of+Our+Solar+System+Tim+Gregory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites: The Story of Our Solar System">Meteorites: The Story of Our Solar System</a>
+        </h4>
+        <p class="fr-book-author">By Tim Gregory</p>
+
+        <p class="fr-book-desc">Meteorite tells the fascinating story of the stones from outer space scattered across our planet. From the impact that finished off the d...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Meteorites%3A+The+Story+of+Our+Solar+System+Tim+Gregory&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorite%3A+The+Stones+from+Alien+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorite: The Stones from Alien Worlds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space%3A+Meteorites+and+Meteorite+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space: Meteorites and Meteorite Hunters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cambridge Encyclopedia of Meteorites</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
