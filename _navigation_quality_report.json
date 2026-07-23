@@ -1,0 +1,2517 @@
+{
+  "generated_at_utc": "2026-07-23T10:12:51.785460Z",
+  "summary": {
+    "total_pages_with_permalink": 351,
+    "visible_pages": 273,
+    "hidden_pages": 78,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1151,
+    "inline_internal_target_page_count": 273,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 268,
+    "visible_pages_without_inline_outbound_links": 5,
+    "average_inline_inbound_links_per_visible_page": 4.22,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 273,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_labrador_aircrew_enc_1ee934_boac_crew_testimony_474cec",
+        "title": "Crew Testimony",
+        "permalink": "/crew-testimony/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_labrador_aircrew_enc_1ee934_superior_mirage_theo_9ee85a",
+        "title": "A Superior Mirage",
+        "permalink": "/a-superior-mirage/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_military_aviation_cr_1d6173_gander_ufo_reporting_f0e89c",
+        "title": "Gander Reports",
+        "permalink": "/gander-reports/"
+      },
+      {
+        "basename": "Northwest_Territorie_386265_great_slave_lake_wav_4ee669_military_video_revie_83d0e5",
+        "title": "Military Review",
+        "permalink": "/military-review/"
+      },
+      {
+        "basename": "Northwest_Territorie_386265_yellowknife_pilot_si_02b4ca_great_slave_lake_nig_b4b8ff",
+        "title": "Night Illusions",
+        "permalink": "/night-illusions-c7bed3/"
+      }
+    ],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "Alberta_1dc61b",
+        "title": "What Really Happened in Alberta's UFO History?",
+        "permalink": "/what-really-happened-in-albertas-ufo/"
+      },
+      {
+        "basename": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "title": "Official Files",
+        "permalink": "/official-files/"
+      },
+      {
+        "basename": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_duplicat_16ef80",
+        "title": "Duplicate Files",
+        "permalink": "/duplicate-files/"
+      },
+      {
+        "basename": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_unresolv_0cdd12",
+        "title": "Unresolved Files",
+        "permalink": "/unresolved-files/"
+      },
+      {
+        "basename": "Alberta_1dc61b_alberta_official_ufo_8ad502_duhamel_inspection_f_bcb3af",
+        "title": "Duhamel File",
+        "permalink": "/duhamel-file/"
+      },
+      {
+        "basename": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "title": "Sighting Waves",
+        "permalink": "/sighting-waves/"
+      },
+      {
+        "basename": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_2020_ufo_sur_d31549",
+        "title": "2020 Surge",
+        "permalink": "/2020-surge/"
+      },
+      {
+        "basename": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_multiwitness_40c671",
+        "title": "One Object",
+        "permalink": "/one-object/"
+      },
+      {
+        "basename": "Alberta_1dc61b_alberta_sighting_wav_d77d81_starlink_alberta_sig_a4b781",
+        "title": "Starlink Waves",
+        "permalink": "/starlink-waves/"
+      },
+      {
+        "basename": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "title": "Duhamel",
+        "permalink": "/duhamel/"
+      },
+      {
+        "basename": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_135_ton_clai_e2aeea",
+        "title": "135 Ton Claim",
+        "permalink": "/135-ton-claim/"
+      },
+      {
+        "basename": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_ring_formati_805942",
+        "title": "Ring Formation",
+        "permalink": "/ring-formation/"
+      },
+      {
+        "basename": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_site_contami_3c1b18",
+        "title": "Site Contamination",
+        "permalink": "/site-contamination/"
+      },
+      {
+        "basename": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "title": "Explanations",
+        "permalink": "/explanations/"
+      },
+      {
+        "basename": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_alberta_fireball_ufo_e1300c",
+        "title": "Fireballs",
+        "permalink": "/fireballs/"
+      },
+      {
+        "basename": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_approaching_aircraft_c8a3fc",
+        "title": "Hovering Jets",
+        "permalink": "/hovering-jets/"
+      },
+      {
+        "basename": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_cadors_ufo_reports_8f3e52",
+        "title": "CADORS Reports",
+        "permalink": "/cadors-reports/"
+      },
+      {
+        "basename": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "title": "St Paul",
+        "permalink": "/st-paul/"
+      },
+      {
+        "basename": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_landing_pad_62a044",
+        "title": "1967 Origins",
+        "permalink": "/1967-origins/"
+      },
+      {
+        "basename": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_myth_vs_f5d438",
+        "title": "Myth vs Evidence",
+        "permalink": "/myth-vs-evidence/"
+      },
+      {
+        "basename": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_tourism_1a4174",
+        "title": "Tourism Legacy",
+        "permalink": "/tourism-legacy/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63",
+        "title": "What Really Happened in British Columbia's Skies?",
+        "permalink": "/what-really-happened-in-british/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "title": "Explanations",
+        "permalink": "/explanations-89fcc8/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_fireball_distance_mi_ba6ee6",
+        "title": "Fireball Mistakes",
+        "permalink": "/fireball-mistakes/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_planets_following_dr_faf093",
+        "title": "Following Lights",
+        "permalink": "/following-lights/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_starlink_sighting_ma_fd3f4b",
+        "title": "Starlink Matches",
+        "permalink": "/starlink-matches/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e",
+        "title": "Duncan Case",
+        "permalink": "/duncan-case/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_balloon_expla_601cf4",
+        "title": "Balloon Claim",
+        "permalink": "/balloon-claim/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_coin_prank_re_3917c1",
+        "title": "Coin Revival",
+        "permalink": "/coin-revival/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "title": "Witnesses",
+        "permalink": "/witnesses/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "title": "1960 s Wave",
+        "permalink": "/1960-s-wave/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_cariboo_ufo_witness_8cdd9a",
+        "title": "Cariboo Cases",
+        "permalink": "/cariboo-cases/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_mcleese_lake_powerli_90ead0",
+        "title": "Mc Leese Lake",
+        "permalink": "/mc-leese-lake/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_media_clubs_ufo_feed_ec2277",
+        "title": "Media Feedback",
+        "permalink": "/media-feedback/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_prince_george_offici_ba9d6c",
+        "title": "Prince George",
+        "permalink": "/prince-george/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_explan_7a1e19",
+        "title": "Possible Explanations",
+        "permalink": "/possible-explanations/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_federa_ab0c23",
+        "title": "Federal File",
+        "permalink": "/federal-file/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_witnes_a24906",
+        "title": "Witness Accounts",
+        "permalink": "/witness-accounts/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+        "title": "Vancouver Reports",
+        "permalink": "/vancouver-reports/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_vancouver_reporting_c50d30_vancouver_flight_rou_739c0d",
+        "title": "Flight Routes",
+        "permalink": "/flight-routes/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_vancouver_reporting_c50d30_vancouver_metro_ufo_48d7a4",
+        "title": "Metro Boundaries",
+        "permalink": "/metro-boundaries/"
+      },
+      {
+        "basename": "British_Columbia_2f7c63_vancouver_reporting_c50d30_vancouver_ufo_popula_d82d51",
+        "title": "Population Effect",
+        "permalink": "/population-effect/"
+      },
+      {
+        "basename": "Manitoba_c1a386",
+        "title": "What Really Happened in Manitoba's UFO Cases?",
+        "permalink": "/what-really-happened-in-manitobas-ufo/"
+      },
+      {
+        "basename": "Manitoba_c1a386_charlie_redstar_wave_7bf08f",
+        "title": "Charlie Redstar",
+        "permalink": "/charlie-redstar/"
+      },
+      {
+        "basename": "Manitoba_c1a386_charlie_redstar_wave_7bf08f_carman_airfield_sigh_76d2f0",
+        "title": "Carman sighting",
+        "permalink": "/carman-sighting/"
+      },
+      {
+        "basename": "Manitoba_c1a386_charlie_redstar_wave_7bf08f_charlie_media_skywat_d21dc4",
+        "title": "Media wave",
+        "permalink": "/media-wave/"
+      },
+      {
+        "basename": "Manitoba_c1a386_charlie_redstar_wave_7bf08f_night_light_misperce_cb79c9",
+        "title": "Night illusions",
+        "permalink": "/night-illusions/"
+      },
+      {
+        "basename": "Manitoba_c1a386_falcon_lake_physical_3ae726",
+        "title": "Physical Evidence",
+        "permalink": "/physical-evidence/"
+      },
+      {
+        "basename": "Manitoba_c1a386_falcon_lake_physical_3ae726_clothing_damage_patt_69bfc3",
+        "title": "Clothing Damage",
+        "permalink": "/clothing-damage/"
+      },
+      {
+        "basename": "Manitoba_c1a386_falcon_lake_physical_3ae726_later_burns_factitia_e80f17",
+        "title": "Later Burns",
+        "permalink": "/later-burns/"
+      },
+      {
+        "basename": "Manitoba_c1a386_falcon_lake_physical_3ae726_radium_paint_contami_2e5759",
+        "title": "Radium Theory",
+        "permalink": "/radium-theory/"
+      },
+      {
+        "basename": "Manitoba_c1a386_falcon_lake_unresolv_867903",
+        "title": "Falcon Lake",
+        "permalink": "/falcon-lake/"
+      },
+      {
+        "basename": "Manitoba_c1a386_falcon_lake_unresolv_867903_falcon_lake_radioact_9942fa",
+        "title": "Radioactivity",
+        "permalink": "/radioactivity/"
+      },
+      {
+        "basename": "Manitoba_c1a386_falcon_lake_unresolv_867903_falcon_lake_site_cha_06f98e",
+        "title": "Landing Site",
+        "permalink": "/landing-site/"
+      },
+      {
+        "basename": "Manitoba_c1a386_falcon_lake_unresolv_867903_michalak_injuries_ca_8de31c",
+        "title": "Injuries",
+        "permalink": "/injuries/"
+      },
+      {
+        "basename": "Manitoba_c1a386_manitoba_official_uf_3a0659",
+        "title": "Official Records",
+        "permalink": "/official-records/"
+      },
+      {
+        "basename": "Manitoba_c1a386_manitoba_official_uf_3a0659_manitoba_ufo_agency_897122",
+        "title": "Split Agencies",
+        "permalink": "/split-agencies/"
+      },
+      {
+        "basename": "Manitoba_c1a386_manitoba_official_uf_3a0659_project_magnet_polic_e2bb67",
+        "title": "Project Magnet",
+        "permalink": "/project-magnet/"
+      },
+      {
+        "basename": "Manitoba_c1a386_manitoba_official_uf_3a0659_second_storey_report_20672b",
+        "title": "Second Storey",
+        "permalink": "/second-storey/"
+      },
+      {
+        "basename": "Manitoba_c1a386_manitoba_ufo_sceptic_3d3172",
+        "title": "Doubts",
+        "permalink": "/doubts/"
+      },
+      {
+        "basename": "Manitoba_c1a386_manitoba_ufo_sceptic_3d3172_charlie_redstar_witn_ed1349",
+        "title": "Charlie Redstar",
+        "permalink": "/charlie-redstar-9ec1a1/"
+      },
+      {
+        "basename": "Manitoba_c1a386_manitoba_ufo_sceptic_3d3172_falcon_lake_burns_422fed",
+        "title": "Burns",
+        "permalink": "/burns/"
+      },
+      {
+        "basename": "Manitoba_c1a386_manitoba_ufo_sceptic_3d3172_falcon_lake_radioact_9942fa",
+        "title": "Radioactivity",
+        "permalink": "/radioactivity-4ed215/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9",
+        "title": "What Really Happened in New Brunswick's UFO Cases?",
+        "permalink": "/what-really-happened-in-new-brunswicks/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_fredericton_friedman_69c82e",
+        "title": "Friedman Archive",
+        "permalink": "/friedman-archive/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_fredericton_friedman_69c82e_friedman_fonds_proce_62035c",
+        "title": "Archive Challenge",
+        "permalink": "/archive-challenge/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_fredericton_friedman_69c82e_friedman_museum_arch_2a2aa3",
+        "title": "Museum Legacy",
+        "permalink": "/museum-legacy/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_fredericton_friedman_69c82e_friedman_witness_sto_f78633",
+        "title": "Witness Stories",
+        "permalink": "/witness-stories/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_gagetown_military_uf_62f27f",
+        "title": "Gagetown",
+        "permalink": "/gagetown/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_gagetown_military_uf_62f27f_gagetown_missing_rec_488742",
+        "title": "Missing Records",
+        "permalink": "/missing-records/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_gagetown_military_uf_62f27f_gagetown_night_train_cff5ec",
+        "title": "Night Training",
+        "permalink": "/night-training/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_gagetown_military_uf_62f27f_marceau_1992_evidenc_6c2dc4",
+        "title": "Marceau Case",
+        "permalink": "/marceau-case/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_heath_steele_ufo_cla_9aa38a",
+        "title": "Heath Steele",
+        "permalink": "/heath-steele/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_heath_steele_ufo_cla_9aa38a_heath_steele_mine_ex_f95886",
+        "title": "Mine Explanations",
+        "permalink": "/mine-explanations/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_heath_steele_ufo_cla_9aa38a_heath_steele_story_g_bc97fd",
+        "title": "Story Growth",
+        "permalink": "/story-growth/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_heath_steele_ufo_cla_9aa38a_heath_steele_witness_3d6129",
+        "title": "Witness Accounts",
+        "permalink": "/witness-accounts-138882/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_official_ufo_files_1_15e269",
+        "title": "Official Files",
+        "permalink": "/official-files-d3b5a2/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_official_ufo_files_1_15e269_acadie_siding_aircra_e018f8",
+        "title": "Acadie Siding",
+        "permalink": "/acadie-siding/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_official_ufo_files_1_15e269_nb_ufo_federal_file_c35b39",
+        "title": "Federal Files",
+        "permalink": "/federal-files/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_official_ufo_files_1_15e269_sheffield_astronomic_ddbe54",
+        "title": "Sheffield",
+        "permalink": "/sheffield/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_sugarloaf_ufo_folklo_5f3c76",
+        "title": "Sugarloaf",
+        "permalink": "/sugarloaf/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_sugarloaf_ufo_folklo_5f3c76_sugarloaf_rcmp_sight_a7e046",
+        "title": "RCMP Sighting",
+        "permalink": "/rcmp-sighting/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_sugarloaf_ufo_folklo_5f3c76_sugarloaf_triangle_s_e8ef24",
+        "title": "1989 Triangles",
+        "permalink": "/1989-triangles/"
+      },
+      {
+        "basename": "New_Brunswick_cd41a9_sugarloaf_ufo_folklo_5f3c76_sugarloaf_ufo_flap_1_cf7bba",
+        "title": "1971 Flap",
+        "permalink": "/1971-flap/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11",
+        "title": "What Really Happened in Newfoundland's UFO Cases?",
+        "permalink": "/newfoundland-and-labrador/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_canadian_ufo_officia_176c3c",
+        "title": "Official Files",
+        "permalink": "/official-files-e699bf/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_canadian_ufo_officia_176c3c_cadors_ufo_entries_54d590",
+        "title": "CADORS Records",
+        "permalink": "/cadors-records/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_canadian_ufo_officia_176c3c_labrador_us_military_1ea763",
+        "title": "US File Links",
+        "permalink": "/us-file-links/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_canadian_ufo_officia_176c3c_rcmp_ufo_report_mean_6aec46",
+        "title": "RCMP Reports",
+        "permalink": "/rcmp-reports/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_clarenville_ufo_case_812371",
+        "title": "Clarenville",
+        "permalink": "/clarenville/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_clarenville_ufo_case_812371_blackwood_witness_ac_5ca844",
+        "title": "Blackwood",
+        "permalink": "/blackwood/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_clarenville_ufo_case_812371_clarenville_jupiter_2700f2",
+        "title": "Jupiter Theory",
+        "permalink": "/jupiter-theory/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_clarenville_ufo_case_812371_clarenville_missing_ae6e00",
+        "title": "Missing Evidence",
+        "permalink": "/missing-evidence/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_goose_bay_radar_case_0e7f12",
+        "title": "Goose Bay Radar",
+        "permalink": "/goose-bay-radar/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_goose_bay_radar_case_0e7f12_goose_bay_balloon_ex_dd2881",
+        "title": "Balloon Theory",
+        "permalink": "/balloon-theory/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_goose_bay_radar_case_0e7f12_goose_bay_broken_rad_4c06ed",
+        "title": "Broken Track",
+        "permalink": "/broken-track/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_goose_bay_radar_case_0e7f12_goose_bay_two_operat_a8f0b8",
+        "title": "Two Operators",
+        "permalink": "/two-operators/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_labrador_aircrew_enc_1ee934",
+        "title": "Aircrew Cases",
+        "permalink": "/aircrew-cases/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_labrador_aircrew_enc_1ee934_boac_crew_testimony_474cec",
+        "title": "Crew Testimony",
+        "permalink": "/crew-testimony/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_labrador_aircrew_enc_1ee934_labrador_radar_claim_86fb57",
+        "title": "Radar Claim",
+        "permalink": "/radar-claim/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_labrador_aircrew_enc_1ee934_superior_mirage_theo_9ee85a",
+        "title": "A Superior Mirage",
+        "permalink": "/a-superior-mirage/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_military_aviation_cr_1d6173",
+        "title": "Military Skies",
+        "permalink": "/military-skies/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_military_aviation_cr_1d6173_cold_war_unknown_rep_066113",
+        "title": "Cold War Logs",
+        "permalink": "/cold-war-logs/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_military_aviation_cr_1d6173_gander_ufo_reporting_f0e89c",
+        "title": "Gander Reports",
+        "permalink": "/gander-reports/"
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11_military_aviation_cr_1d6173_goose_bay_training_m_c8ee29",
+        "title": "Training Effects",
+        "permalink": "/training-effects/"
+      },
+      {
+        "basename": "Northwest_Territorie_386265",
+        "title": "What Really Happened in the Northern Skies?",
+        "permalink": "/northwest-territories/"
+      },
+      {
+        "basename": "Northwest_Territorie_386265_clan_lake_impact_cas_0e05dc",
+        "title": "Clan Lake",
+        "permalink": "/clan-lake/"
+      },
+      {
+        "basename": "Northwest_Territorie_386265_clan_lake_impact_cas_0e05dc_clan_lake_competing_16efce",
+        "title": "Competing Causes",
+        "permalink": "/competing-causes/"
+      },
+      {
+        "basename": "Northwest_Territorie_386265_clan_lake_impact_cas_0e05dc_clan_lake_rcmp_searc_d13440",
+        "title": "RCMP Search",
+        "permalink": "/rcmp-search/"
+      },
+      {
+        "basename": "Northwest_Territorie_386265_clan_lake_impact_cas_0e05dc_clan_lake_witness_li_67adfd",
+        "title": "Witness Account",
+        "permalink": "/witness-account/"
+      },
+      {
+        "basename": "Northwest_Territorie_386265_great_slave_lake_wav_4ee669",
+        "title": "Sighting Wave",
+        "permalink": "/sighting-wave/"
+      },
+      {
+        "basename": "Northwest_Territorie_386265_great_slave_lake_wav_4ee669_fort_resolution_venu_91c566",
+        "title": "Venus Theory",
+        "permalink": "/venus-theory/"
+      },
+      {
+        "basename": "Northwest_Territorie_386265_great_slave_lake_wav_4ee669_hay_river_meteor_7bdca5",
+        "title": "Hay River",
+        "permalink": "/hay-river/"
+      },
+      {
+        "basename": "Northwest_Territorie_386265_great_slave_lake_wav_4ee669_military_video_revie_83d0e5",
+        "title": "Military Review",
+        "permalink": "/military-review/"
+      },
+      {
+        "basename": "Northwest_Territorie_386265_rcmp_northern_sighti_9a056d",
+        "title": "RCMP Reports",
+        "permalink": "/rcmp-reports-1e459a/"
+      },
+      {
+        "basename": "Northwest_Territorie_386265_rcmp_northern_sighti_9a056d_fort_simpson_ufo_ske_8f287d",
+        "title": "Fort Simpson",
+        "permalink": "/fort-simpson/"
+      },
+      {
+        "basename": "Northwest_Territorie_386265_rcmp_northern_sighti_9a056d_inuvik_constable_sig_f6ae6f",
+        "title": "Inuvik Case",
+        "permalink": "/inuvik-case/"
+      },
+      {
+        "basename": "Northwest_Territorie_386265_rcmp_northern_sighti_9a056d_northern_witness_cre_fcad07",
+        "title": "Credible Witnesses",
+        "permalink": "/credible-witnesses/"
+      },
+      {
+        "basename": "Northwest_Territorie_386265_why_northern_cases_u_3d501d",
+        "title": "Why Unresolved",
+        "permalink": "/why-unresolved/"
+      },
+      {
+        "basename": "Northwest_Territorie_386265_why_northern_cases_u_3d501d_agency_gaps_ufo_repo_4f98c2",
+        "title": "Agency Gaps",
+        "permalink": "/agency-gaps/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Nova_Scotia_117534_shag_harbour_timelin_9c2a59",
+        "title": "Shag Harbour",
+        "permalink": "/shag-harbour/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "Nova_Scotia_117534_shag_harbour_witness_85778a",
+        "title": "Witnesses",
+        "permalink": "/witnesses-3e07e4/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "Alberta_1dc61b",
+        "title": "What Really Happened in Alberta's UFO History?",
+        "permalink": "/what-really-happened-in-albertas-ufo/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "title": "Witnesses",
+        "permalink": "/witnesses/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "Manitoba_c1a386",
+        "title": "What Really Happened in Manitoba's UFO Cases?",
+        "permalink": "/what-really-happened-in-manitobas-ufo/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "Nunavut_1ecc65",
+        "title": "What Really Lies Behind Nunavut's UFO Stories?",
+        "permalink": "/what-really-lies-behind-nunavuts-ufo/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "Ontario_f9f742",
+        "title": "What Does Ontario's UFO Record Really Show?",
+        "permalink": "/what-does-ontarios-ufo-record-really/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "Saskatchewan_59faf2",
+        "title": "What Really Happened in Saskatchewan's UFO Cases?",
+        "permalink": "/what-really-happened-in-saskatchewans/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "Yukon_581b4d",
+        "title": "What Really Happened in Yukon's Northern Skies?",
+        "permalink": "/what-really-happened-in-yukons-northern/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "Prince_Edward_Island_9d3219",
+        "title": "What Really Happened in Prince Edward Island's Skies?",
+        "permalink": "/prince-edward-island/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "Quebec_51603e",
+        "title": "What Really Happened in Quebec's UFO History?",
+        "permalink": "/what-really-happened-in-quebecs-ufo/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "British_Columbia_2f7c63",
+        "title": "What Really Happened in British Columbia's Skies?",
+        "permalink": "/what-really-happened-in-british/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "New_Brunswick_cd41a9",
+        "title": "What Really Happened in New Brunswick's UFO Cases?",
+        "permalink": "/what-really-happened-in-new-brunswicks/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "Northwest_Territorie_386265",
+        "title": "What Really Happened in the Northern Skies?",
+        "permalink": "/northwest-territories/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "Nova_Scotia_117534",
+        "title": "What Really Happened in Nova Scotia's Skies?",
+        "permalink": "/what-really-happened-in-nova-scotias/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "Saskatchewan_59faf2_saskatchewan_ufo_fla_49ccc3",
+        "title": "Sightings",
+        "permalink": "/sightings/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "Manitoba_c1a386_falcon_lake_unresolv_867903",
+        "title": "Falcon Lake",
+        "permalink": "/falcon-lake/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "Newfoundland_and_Lab_16bd11",
+        "title": "What Really Happened in Newfoundland's UFO Cases?",
+        "permalink": "/newfoundland-and-labrador/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "Prince_Edward_Island_9d3219_pei_ufo_records_dbb74e",
+        "title": "Records",
+        "permalink": "/records/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "Nova_Scotia_117534_shag_harbour_witness_85778a_shag_harbour_story_e_27e44c",
+        "title": "Later Retellings",
+        "permalink": "/later-retellings/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "title": "Explanations",
+        "permalink": "/explanations-89fcc8/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "title": "Explanations",
+        "permalink": "/explanations/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Prince_Edward_Island_9d3219_ebenezer_incident_4ddeec_ebenezer_investigati_86a65a",
+        "title": "Investigation",
+        "permalink": "/investigation/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Quebec_51603e_quebec_aviation_ufo_fc9c80",
+        "title": "Aviation",
+        "permalink": "/aviation/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Saskatchewan_59faf2_military_aviation_re_d61f55",
+        "title": "Aviation",
+        "permalink": "/aviation-fa870c/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Prince_Edward_Island_9d3219_kensington_lights_73a3c6_aircraft_drone_expla_cabf04",
+        "title": "Explanations",
+        "permalink": "/explanations-e9ef8e/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "Manitoba_c1a386_manitoba_ufo_sceptic_3d3172_falcon_lake_burns_422fed",
+        "title": "Burns",
+        "permalink": "/burns/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Nova_Scotia_117534_shag_harbour_explana_e7a273",
+        "title": "Explanations",
+        "permalink": "/explanations-8fddeb/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Prince_Edward_Island_9d3219_ebenezer_incident_4ddeec",
+        "title": "Ebenezer",
+        "permalink": "/ebenezer/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Quebec_51603e_hotel_bonaventure_ca_10948f_bonaventure_photo_ev_dceabf",
+        "title": "Photographs",
+        "permalink": "/photographs/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Manitoba_c1a386_falcon_lake_physical_3ae726",
+        "title": "Physical Evidence",
+        "permalink": "/physical-evidence/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Prince_Edward_Island_9d3219_kensington_lights_73a3c6_mufon_confirmed_mean_1c8afe",
+        "title": "Confirmed",
+        "permalink": "/confirmed/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Quebec_51603e_hotel_bonaventure_ca_10948f",
+        "title": "Bonaventure",
+        "permalink": "/bonaventure/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "title": "Duhamel",
+        "permalink": "/duhamel/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Manitoba_c1a386_falcon_lake_unresolv_867903_michalak_injuries_ca_8de31c",
+        "title": "Injuries",
+        "permalink": "/injuries/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Prince_Edward_Island_9d3219_atlantic_fireballs_860b5a",
+        "title": "Fireballs",
+        "permalink": "/fireballs-e5c642/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Saskatchewan_59faf2_langenburg_sighting_a81e93",
+        "title": "Langenburg",
+        "permalink": "/langenburg/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Yukon_581b4d_yukon_close_encounte_5c3346",
+        "title": "Close Encounters",
+        "permalink": "/close-encounters/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Yukon_581b4d_yukon_ufo_archives_957821",
+        "title": "Archives",
+        "permalink": "/archives/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Northwest_Territorie_386265_clan_lake_impact_cas_0e05dc",
+        "title": "Clan Lake",
+        "permalink": "/clan-lake/",
+        "inline_inbound_count": 9
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "Alberta_1dc61b",
+        "to": "British_Columbia_2f7c63",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Manitoba_c1a386",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "New_Brunswick_cd41a9",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Newfoundland_and_Lab_16bd11",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Northwest_Territorie_386265",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Nova_Scotia_117534",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Nunavut_1ecc65",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Ontario_f9f742",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Prince_Edward_Island_9d3219",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Quebec_51603e",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Saskatchewan_59faf2",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Yukon_581b4d",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Alberta_1dc61b_index",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "to": "Alberta_1dc61b",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_duplicat_16ef80",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_unresolv_0cdd12",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502_duhamel_inspection_f_bcb3af",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502_index",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "to": "Alberta_1dc61b",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_2020_ufo_sur_d31549",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_multiwitness_40c671",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81_index",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81_starlink_alberta_sig_a4b781",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "to": "Alberta_1dc61b",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_135_ton_clai_e2aeea",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_ring_formati_805942",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_site_contami_3c1b18",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558_index",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "to": "Alberta_1dc61b",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_alberta_fireball_ufo_e1300c",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_approaching_aircraft_c8a3fc",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_cadors_ufo_reports_8f3e52",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_index",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "to": "Alberta_1dc61b",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_index",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_landing_pad_62a044",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_myth_vs_f5d438",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_tourism_1a4174",
+        "type": "child"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_cadors_ufo_reports_8f3e52",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_cadors_ufo_reports_8f3e52",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_alberta_fireball_ufo_e1300c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_cadors_ufo_reports_8f3e52",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_approaching_aircraft_c8a3fc",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_cadors_ufo_reports_8f3e52",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_cadors_ufo_reports_8f3e52",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_landing_pad_62a044",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_landing_pad_62a044",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_myth_vs_f5d438",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_landing_pad_62a044",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_tourism_1a4174",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_landing_pad_62a044",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_landing_pad_62a044",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_myth_vs_f5d438",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_myth_vs_f5d438",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_landing_pad_62a044",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_myth_vs_f5d438",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_tourism_1a4174",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_myth_vs_f5d438",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_myth_vs_f5d438",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_tourism_1a4174",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_tourism_1a4174",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_landing_pad_62a044",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_tourism_1a4174",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_myth_vs_f5d438",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_tourism_1a4174",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_tourism_1a4174",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_duplicat_16ef80",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_duplicat_16ef80",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_unresolv_0cdd12",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_duplicat_16ef80",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502_duhamel_inspection_f_bcb3af",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_duplicat_16ef80",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_duplicat_16ef80",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_unresolv_0cdd12",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_unresolv_0cdd12",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_duplicat_16ef80",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_unresolv_0cdd12",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502_duhamel_inspection_f_bcb3af",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_unresolv_0cdd12",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_unresolv_0cdd12",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_duhamel_inspection_f_bcb3af",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_duhamel_inspection_f_bcb3af",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_duplicat_16ef80",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_duhamel_inspection_f_bcb3af",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_unresolv_0cdd12",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_duhamel_inspection_f_bcb3af",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_duhamel_inspection_f_bcb3af",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_2020_ufo_sur_d31549",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_2020_ufo_sur_d31549",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_multiwitness_40c671",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_2020_ufo_sur_d31549",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81_starlink_alberta_sig_a4b781",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_2020_ufo_sur_d31549",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_2020_ufo_sur_d31549",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_multiwitness_40c671",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_multiwitness_40c671",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_2020_ufo_sur_d31549",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_multiwitness_40c671",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81_starlink_alberta_sig_a4b781",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_multiwitness_40c671",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_multiwitness_40c671",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_starlink_alberta_sig_a4b781",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_starlink_alberta_sig_a4b781",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_2020_ufo_sur_d31549",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_starlink_alberta_sig_a4b781",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_multiwitness_40c671",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_starlink_alberta_sig_a4b781",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_starlink_alberta_sig_a4b781",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_135_ton_clai_e2aeea",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_135_ton_clai_e2aeea",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_ring_formati_805942",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_135_ton_clai_e2aeea",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_site_contami_3c1b18",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_135_ton_clai_e2aeea",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_135_ton_clai_e2aeea",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_ring_formati_805942",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_ring_formati_805942",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_135_ton_clai_e2aeea",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_ring_formati_805942",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_site_contami_3c1b18",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_ring_formati_805942",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_ring_formati_805942",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_site_contami_3c1b18",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_site_contami_3c1b18",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_135_ton_clai_e2aeea",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_site_contami_3c1b18",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_ring_formati_805942",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_site_contami_3c1b18",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_site_contami_3c1b18",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_alberta_fireball_ufo_e1300c",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_alberta_fireball_ufo_e1300c",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_approaching_aircraft_c8a3fc",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_alberta_fireball_ufo_e1300c",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_cadors_ufo_reports_8f3e52",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_alberta_fireball_ufo_e1300c",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_alberta_fireball_ufo_e1300c",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_approaching_aircraft_c8a3fc",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "parent"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_approaching_aircraft_c8a3fc",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_alberta_fireball_ufo_e1300c",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_approaching_aircraft_c8a3fc",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_cadors_ufo_reports_8f3e52",
+        "type": "sibling"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_approaching_aircraft_c8a3fc",
+        "to": "Alberta_1dc61b",
+        "type": "ancestor"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_approaching_aircraft_c8a3fc",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "ancestor"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "Alberta_1dc61b",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "Manitoba_c1a386",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "New_Brunswick_cd41a9",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "Newfoundland_and_Lab_16bd11",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "Northwest_Territorie_386265",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "Nova_Scotia_117534",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "Nunavut_1ecc65",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "Ontario_f9f742",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "Prince_Edward_Island_9d3219",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "Quebec_51603e",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "Saskatchewan_59faf2",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "Yukon_581b4d",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "British_Columbia_2f7c63_index",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "British_Columbia_2f7c63_prince_george_offici_ba9d6c",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "to": "British_Columbia_2f7c63",
+        "type": "parent"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "to": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "to": "British_Columbia_2f7c63_prince_george_offici_ba9d6c",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "to": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_fireball_distance_mi_ba6ee6",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_index",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_planets_following_dr_faf093",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_starlink_sighting_ma_fd3f4b",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "to": "British_Columbia_2f7c63",
+        "type": "ancestor"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "to": "British_Columbia_2f7c63",
+        "type": "parent"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "to": "British_Columbia_2f7c63_prince_george_offici_ba9d6c",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "to": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "to": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_cariboo_ufo_witness_8cdd9a",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "to": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_index",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "to": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_mcleese_lake_powerli_90ead0",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "to": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_media_clubs_ufo_feed_ec2277",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "to": "British_Columbia_2f7c63",
+        "type": "ancestor"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+        "to": "British_Columbia_2f7c63",
+        "type": "parent"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+        "to": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+        "to": "British_Columbia_2f7c63_prince_george_offici_ba9d6c",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+        "to": "British_Columbia_2f7c63_vancouver_reporting_c50d30_index",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+        "to": "British_Columbia_2f7c63_vancouver_reporting_c50d30_vancouver_flight_rou_739c0d",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+        "to": "British_Columbia_2f7c63_vancouver_reporting_c50d30_vancouver_metro_ufo_48d7a4",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+        "to": "British_Columbia_2f7c63_vancouver_reporting_c50d30_vancouver_ufo_popula_d82d51",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+        "to": "British_Columbia_2f7c63",
+        "type": "ancestor"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e",
+        "to": "British_Columbia_2f7c63",
+        "type": "parent"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e",
+        "to": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e",
+        "to": "British_Columbia_2f7c63_prince_george_offici_ba9d6c",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e",
+        "to": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+        "type": "sibling"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_balloon_expla_601cf4",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_coin_prank_re_3917c1",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "child"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_index",
+        "type": "child"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502_duhamel_inspection_f_bcb3af",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_alberta_fireball_ufo_e1300c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_approaching_aircraft_c8a3fc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_cadors_ufo_reports_8f3e52",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_landing_pad_62a044",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_landing_pad_62a044",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_myth_vs_f5d438",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_myth_vs_f5d438",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_tourism_1a4174",
+        "to": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_tourism_1a4174",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_duplicat_16ef80",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_duplicat_16ef80",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_unresolv_0cdd12",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_duhamel_inspection_f_bcb3af",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_official_ufo_8ad502_duhamel_inspection_f_bcb3af",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_2020_ufo_sur_d31549",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_2020_ufo_sur_d31549",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_2020_ufo_sur_d31549",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_2020_ufo_sur_d31549",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_alberta_fireball_ufo_e1300c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_multiwitness_40c671",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_multiwitness_40c671",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_alberta_fireball_ufo_e1300c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_multiwitness_40c671",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_starlink_alberta_sig_a4b781",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_starlink_alberta_sig_a4b781",
+        "to": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_alberta_sighting_wav_d77d81_starlink_alberta_sig_a4b781",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_135_ton_clai_e2aeea",
+        "to": "Alberta_1dc61b_alberta_official_ufo_8ad502_duhamel_inspection_f_bcb3af",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_135_ton_clai_e2aeea",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_135_ton_clai_e2aeea",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_ring_formati_805942",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_ring_formati_805942",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_ring_formati_805942",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_site_contami_3c1b18",
+        "to": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_site_contami_3c1b18",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_site_contami_3c1b18",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_alberta_fireball_ufo_e1300c",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_alberta_fireball_ufo_e1300c",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_approaching_aircraft_c8a3fc",
+        "to": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_approaching_aircraft_c8a3fc",
+        "to": "Alberta_1dc61b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_federa_ab0c23",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "British_Columbia_2f7c63_prince_george_offici_ba9d6c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "to": "British_Columbia_2f7c63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "to": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_federa_ab0c23",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "to": "British_Columbia_2f7c63_prince_george_offici_ba9d6c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "to": "British_Columbia_2f7c63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+        "to": "British_Columbia_2f7c63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e",
+        "to": "British_Columbia_2f7c63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_prince_george_offici_ba9d6c",
+        "to": "British_Columbia_2f7c63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_prince_george_offici_ba9d6c",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_cariboo_ufo_witness_8cdd9a",
+        "to": "British_Columbia_2f7c63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_cariboo_ufo_witness_8cdd9a",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_cariboo_ufo_witness_8cdd9a",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30_vancouver_metro_ufo_48d7a4",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30_vancouver_metro_ufo_48d7a4",
+        "to": "British_Columbia_2f7c63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_fireball_distance_mi_ba6ee6",
+        "to": "British_Columbia_2f7c63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_fireball_distance_mi_ba6ee6",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_planets_following_dr_faf093",
+        "to": "British_Columbia_2f7c63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_planets_following_dr_faf093",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_planets_following_dr_faf093",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_starlink_sighting_ma_fd3f4b",
+        "to": "British_Columbia_2f7c63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_starlink_sighting_ma_fd3f4b",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_starlink_sighting_ma_fd3f4b",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_starlink_sighting_ma_fd3f4b",
+        "to": "British_Columbia_2f7c63_prince_george_offici_ba9d6c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_mcleese_lake_powerli_90ead0",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_mcleese_lake_powerli_90ead0",
+        "to": "British_Columbia_2f7c63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_mcleese_lake_powerli_90ead0",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_media_clubs_ufo_feed_ec2277",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_media_clubs_ufo_feed_ec2277",
+        "to": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_explan_7a1e19",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_media_clubs_ufo_feed_ec2277",
+        "to": "British_Columbia_2f7c63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_media_clubs_ufo_feed_ec2277",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30_vancouver_flight_rou_739c0d",
+        "to": "British_Columbia_2f7c63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30_vancouver_flight_rou_739c0d",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30_vancouver_flight_rou_739c0d",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30_vancouver_ufo_popula_d82d51",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30_vancouver_ufo_popula_d82d51",
+        "to": "British_Columbia_2f7c63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_vancouver_reporting_c50d30_vancouver_ufo_popula_d82d51",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_balloon_expla_601cf4",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_balloon_expla_601cf4",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_coin_prank_re_3917c1",
+        "to": "British_Columbia_2f7c63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_coin_prank_re_3917c1",
+        "to": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_witnes_a24906",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_coin_prank_re_3917c1",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "to": "British_Columbia_2f7c63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "to": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_witnes_a24906",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_explan_7a1e19",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_explan_7a1e19",
+        "to": "British_Columbia_2f7c63_prince_george_offici_ba9d6c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_explan_7a1e19",
+        "to": "British_Columbia_2f7c63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_explan_7a1e19",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_federa_ab0c23",
+        "to": "British_Columbia_2f7c63_prince_george_offici_ba9d6c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_federa_ab0c23",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_federa_ab0c23",
+        "to": "British_Columbia_2f7c63",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_witnes_a24906",
+        "to": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_witnes_a24906",
+        "to": "British_Columbia_2f7c63_prince_george_offici_ba9d6c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_witnes_a24906",
+        "to": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Manitoba_c1a386",
+        "to": "Manitoba_c1a386_manitoba_ufo_sceptic_3d3172_falcon_lake_burns_422fed",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Manitoba_c1a386",
+        "to": "Manitoba_c1a386_falcon_lake_unresolv_867903",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Manitoba_c1a386",
+        "to": "Manitoba_c1a386_falcon_lake_unresolv_867903_michalak_injuries_ca_8de31c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Manitoba_c1a386",
+        "to": "Manitoba_c1a386_falcon_lake_unresolv_867903_falcon_lake_site_cha_06f98e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Manitoba_c1a386",
+        "to": "Manitoba_c1a386_falcon_lake_physical_3ae726",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

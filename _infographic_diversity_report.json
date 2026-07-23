@@ -1,0 +1,6571 @@
+{
+  "generated_at_utc": "2026-07-23T10:12:51.249475Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 273,
+    "pages_review_recommended": 3,
+    "warning_reason_counts": {
+      "single_reader_role": 3
+    }
+  },
+  "pages": [
+    {
+      "basename": "Northwest_Territorie_386265_clan_lake_impact_cas_0e05dc_clan_lake_competing_16efce",
+      "title": "Meteor, Rocket Debris or Something Else at Clan Lake?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "list_vertical",
+        "cards_grid"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Clan Lake Impact Explanations",
+        "Evidence from Clan Lake Investigation",
+        "Unresolved Clan Lake Anomalies"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.333,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "Quebec_51603e_quebec_2015_reportin_e06c14_quebec_2015_database_c8d07c",
+      "title": "What Did Quebec's 450 UFO Reports Actually Measure?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Quebec 2015 Reporting Data Scope",
+        "Interpreting the Quebec 450 Figure",
+        "Reliable Data from Canadian UFO Survey"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.125,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "Quebec_51603e_quebec_aviation_ufo_fc9c80",
+      "title": "When Do Aircraft Lights Look Like UFOs?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Montreal Aviation Airspace Complexity",
+        "Aircraft Light Misidentification Effects",
+        "Radar Silence Interpretation Factors"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "Alberta_1dc61b",
+      "title": "What Really Happened in Alberta's UFO History?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Duhamel Case",
+        "Evidence Quality of Duhamel Marks",
+        "Common Alberta Misidentifications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_alberta_official_ufo_8ad502",
+      "title": "What Do Alberta's Government UFO Files Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "masonry"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Federal Agencies Managing Alberta UFO Records",
+        "Interpreting the Duhamel Circular Marks",
+        "Reasons for Unresolved UFO Files"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_duplicat_16ef80",
+      "title": "Why One Alberta Sighting Became Several Files",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Alberta UFO Report Routing Path",
+        "Interpreting Alberta Archive Volume",
+        "Alberta Agency Interests in UFOs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_alberta_official_ufo_8ad502_alberta_ufo_unresolv_0cdd12",
+      "title": "Does Unresolved Mean Officials Ruled Out Everything?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "cards_grid",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Interpreting Alberta's Unresolved UFO Files",
+        "Missing Evidence in Alberta Records",
+        "Alberta UFO Investigation Workflow"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_alberta_official_ufo_8ad502_duhamel_inspection_f_bcb3af",
+      "title": "What Did Officials Really Prove at Duhamel?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Physical Dimensions of Duhamel Impressions",
+        "Official Findings vs. Public Interpretations",
+        "Components of the Duhamel Investigation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_alberta_sighting_wav_d77d81",
+      "title": "Why Does Alberta Report So Many UFOs?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanisms of Alberta Sighting Waves",
+        "Factors Influencing 2020 Reporting Surges",
+        "Alberta Sky Observation Variables"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_2020_ufo_sur_d31549",
+      "title": "What Really Drove Alberta's 2020 UFO Surge?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Alberta UFO Reporting Time line 2020 2021",
+        "Factors Driving Alberta's 2020 Surge",
+        "Common Explanations for Alberta Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_multiwitness_40c671",
+      "title": "Can Ten UFO Reports Describe One Object?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Analyzing Alberta Sighting Clusters",
+        "Misconceptions of Alberta Fireball Reports",
+        "Common Explanations for Alberta Clusters"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_alberta_sighting_wav_d77d81_starlink_alberta_sig_a4b781",
+      "title": "Why Starlink Looks Like a UFO Fleet",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Starlink Reporting Cascade in Alberta",
+        "Starlink vs. Unexplained Phenomena",
+        "Alberta Geography and Satellite Visibility"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_duhamel_landing_trac_2f8558",
+      "title": "Did Anything Land Near Duhamel in 1967?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Duhamel Alberta Investigation Time line",
+        "Duhamel Mark Interpretations",
+        "Negative Findings at Duhamel Site"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_135_ton_clai_e2aeea",
+      "title": "Did a 135 Ton Craft Land at Duhamel?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Duhamel Pressure Calculation Steps",
+        "Mechanical Loading Hypotheses at Duhamel",
+        "Uncertainties in the Duhamel Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_ring_formati_805942",
+      "title": "What Could Have Made the Duhamel Rings?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "comparison_columns",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Physical Evidence of Duhamel Rings",
+        "Mechanical Explanations for Duhamel Traces",
+        "The Investigation Logic Gap"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_duhamel_landing_trac_2f8558_duhamel_site_contami_3c1b18",
+      "title": "Was the Duhamel Site Already Compromised?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Duhamel Site Inspection Time line",
+        "Preserved vs. Compromised Evidence",
+        "Sources of Site Contamination"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_ordinary_ufo_explana_25e14f",
+      "title": "What Are Alberta's UFOs Most Often Mistaken For?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Verification Steps for Alberta Sightings",
+        "Aircraft vs. Satellite Visuals",
+        "Common Alberta Sky Misidentifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_alberta_fireball_ufo_e1300c",
+      "title": "When an Alberta UFO was really a fireball",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Scientific Reconstruction of Alberta Fireballs",
+        "Fireball Characteristics vs. Other UFOs",
+        "Alberta's Advantages for Meteor Research"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_approaching_aircraft_c8a3fc",
+      "title": "Why Alberta aircraft sometimes seem to hover",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Aircraft Approach Optical Illusion Key Stages",
+        "Alberta UFO vs. Aircraft Comparison",
+        "Alberta Environmental Factors for Illusions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_ordinary_ufo_explana_25e14f_cadors_ufo_reports_8f3e52",
+      "title": "What a CADORS UFO report actually proves",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "CADORS Occurrence Reporting Workflow",
+        "Interpreting Alberta CADORS Entries",
+        "Evidence Strengthening Alberta Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff",
+      "title": "How Did St Paul Become Alberta's UFO Town?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "St. Paul UFO Landing Pad History",
+        "Cultural Artifact vs. UFO Case",
+        "Elements of St. Paul Folklore"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_landing_pad_62a044",
+      "title": "Why Did St Paul Build a UFO Landing Pad?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "St. Paul UFO Landing Pad History",
+        "Symbolism vs. Evidence in St. Paul",
+        "St. Paul Landing Pad Design Features"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_myth_vs_f5d438",
+      "title": "What St Paul's Landing Pad Does Not Prove",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "St. Paul Landing Pad History",
+        "Interpretations of St. Paul Site",
+        "Missing Evidence at St. Paul"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alberta_1dc61b_st_paul_ufo_folklore_e53eff_st_paul_ufo_tourism_1a4174",
+      "title": "How a Centennial Novelty Became St Paul's Identity",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "St. Paul Landing Pad Evolution",
+        "St. Paul vs. Typical UFO Folklore",
+        "St. Paul Visitor Centre Offerings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63",
+      "title": "What Really Happened in British Columbia's Skies?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "British Columbia UFO Reporting Time line",
+        "Duncan Hospital Encounter Interpretations",
+        "Factors Shaping BC UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b",
+      "title": "What Usually Explains British Columbia UFO Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Testing British Columbia UFO Reports",
+        "Common Causes of BC Sightings",
+        "Factors Distorting BC Aerial Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_fireball_distance_mi_ba6ee6",
+      "title": "Did That Fireball Really Land Nearby?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Meteor Trajectory and Perception Key Stages",
+        "Witness Interpretation vs. Astronomical Reality",
+        "Data Sources for Fireball Triangulation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_planets_following_dr_faf093",
+      "title": "Why a Bright Light Seems to Follow Your Car",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of the Parallax Illusion",
+        "Venus vs. UFO Interpretations",
+        "Verification Criteria for UFO*BC Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_bc_ufo_explanations_c7c50b_starlink_sighting_ma_fd3f4b",
+      "title": "Was That Light Formation Really Starlink?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Starlink Verification Workflow in British Columbia",
+        "Starlink vs. Anomalous Phenomena Criteria",
+        "Starlink Visual Characteristics in BC"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e",
+      "title": "Was the Duncan Hospital UFO a Prank?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Duncan Hospital Encounter Key Stages",
+        "Interpretations of the Duncan Craft",
+        "Balloon Prank Construction Details"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_balloon_expla_601cf4",
+      "title": "Could a Homemade Balloon Explain the Duncan UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Homemade Balloon Construction Steps",
+        "Duncan Hospital Sighting Interpretations",
+        "Balloon Evidence Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_coin_prank_re_3917c1",
+      "title": "How a Collector Coin Reopened the Duncan Case",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the Duncan UFO Case",
+        "Competing Interpretations of the Duncan Sighting",
+        "Royal Canadian Mint Coin Features"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_duncan_hospital_pran_c99d8e_duncan_witness_diffe_d58f7e",
+      "title": "Why Did the Duncan Nurses See Different Things?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Duncan Hospital Witness Accounts",
+        "Interpretations of the Cowichan Encounter",
+        "Evidence Hierarchy of the 1970 Sighting"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c",
+      "title": "Why Did British Columbia's UFO Wave Grow?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Chronology of the Cariboo Wave",
+        "Interpretations of the Mc Leese Lake Lights",
+        "Mechanisms of the Reporting Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_cariboo_ufo_witness_8cdd9a",
+      "title": "How Strong Was the Cariboo UFO Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Cariboo UFO Wave Chronology 1967",
+        "Interpretations of Cariboo Sightings",
+        "Evidence Limitations in Cariboo Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_mcleese_lake_powerli_90ead0",
+      "title": "Was the Mc Leese Lake UFO Inspecting Power Lines?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "comparison_columns",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Mc Leese Lake Sighting Observations",
+        "Power Line Inspection Interpretations",
+        "Evolution of the Mc Leese Lake Narrative"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c_media_clubs_ufo_feed_ec2277",
+      "title": "How Media Turned Sightings Into a UFO Wave",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Information Flow of the 1967 69 Wave",
+        "Data Interpretation in BC Archives",
+        "Mechanisms of the Reporting Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_prince_george_offici_ba9d6c",
+      "title": "What Does the Prince George Case Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Prince George Sighting Archival Time line",
+        "Potential Explanations for Prince George Light",
+        "Evidence Limitations in Prince George Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_explan_7a1e19",
+      "title": "Could an Ordinary Object Explain Prince George?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "quadrant",
+        "process_pipeline"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Prince George Sighting Evidence Profile",
+        "Conventional vs. Unconventional Interpretations",
+        "Witness Perception Key Stages in Prince George"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_federa_ab0c23",
+      "title": "What Does the Prince George UFO File Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "umbrella"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Prince George Report Administrative Path",
+        "Archival Fact vs. Witness Claim",
+        "Federal Agencies Involved in Reporting"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_prince_george_offici_ba9d6c_prince_george_witnes_a24906",
+      "title": "Why the Prince George Witness Stories Do Not Fully Match",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Walter Webster's Observation Key Stages",
+        "Source Divergence in Prince George",
+        "Prince George Sighting Evidence Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_vancouver_reporting_c50d30",
+      "title": "Is Vancouver Really a UFO Hotspot?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "comparison_columns",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Urban Misidentifications in Metro Vancouver",
+        "Reporting Hotspot vs. Physical Hotspot",
+        "Vancouver Metropolitan Reporting Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_vancouver_reporting_c50d30_vancouver_flight_rou_739c0d",
+      "title": "Are Vancouver's UFO Clusters Following Flight Paths?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "prism",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Visual Illusion Mechanics of YVR Approaches",
+        "Vancouver Airspace Traffic Categories",
+        "Factors Influencing Vancouver UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_vancouver_reporting_c50d30_vancouver_metro_ufo_48d7a4",
+      "title": "Does Vancouver's UFO Total Really Mean Vancouver?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "list_vertical",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Vancouver vs. Metro Vancouver Data",
+        "Municipalities in Vancouver Grouping",
+        "Factors Distorting Hotspot Rankings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "British_Columbia_2f7c63_vancouver_reporting_c50d30_vancouver_ufo_popula_d82d51",
+      "title": "Why Does Vancouver Generate So Many UFO Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Metro Vancouver Reporting Statistics",
+        "Reporting Factors vs. Actual Events",
+        "Commonly Observed Aerial Phenomena"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386",
+      "title": "What Really Happened in Manitoba's UFO Cases?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Falcon Lake Incident Time line",
+        "Falcon Lake Evidence Interpretations",
+        "Manitoba UFO Record Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_charlie_redstar_wave_7bf08f",
+      "title": "What Was Manitoba's Charlie Redstar Light Wave?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Charlie Redstar Wave",
+        "Conventional Explanations for Manitoba Lights",
+        "Witness Descriptions of Charlie Redstar"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_charlie_redstar_wave_7bf08f_carman_airfield_sigh_76d2f0",
+      "title": "What Really Happened Over the Carman Airfield?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Carman Airfield Sighting",
+        "Documented Facts vs. Folklore Details",
+        "Missing Evidence in Carman Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_charlie_redstar_wave_7bf08f_charlie_media_skywat_d21dc4",
+      "title": "How Charlie Redstar Became a Prairie Sensation",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Charlie Redstar Media Feedback Loop",
+        "Evaluating Charlie Redstar Testimony Validity",
+        "Media Impact on Carman Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_charlie_redstar_wave_7bf08f_night_light_misperce_cb79c9",
+      "title": "Why Charlie Redstar Seemed to Move So Strangely",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Visual Perception of Charlie Redstar Lights",
+        "Interpretations of Manitoba Wave Movements",
+        "Factors Influencing Charlie Redstar Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_falcon_lake_physical_3ae726",
+      "title": "Do Falcon Lake's Physical Traces Prove Anything?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Falcon Lake Incident Evidence Chain",
+        "Falcon Lake Evidence Discrepancies",
+        "Falcon Lake Physical Trace Summary"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_falcon_lake_physical_3ae726_clothing_damage_patt_69bfc3",
+      "title": "Did the Shirt Match Michalak's Burn Story?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "venn",
+        "timeline_snake"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Physical Artifacts of Falcon Lake",
+        "Evidence Analysis of Burn Patterns",
+        "Laboratory Testing Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_falcon_lake_physical_3ae726_later_burns_factitia_e80f17",
+      "title": "Were the Famous Falcon Lake Burns Original?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Falcon Lake Injury Documentation Time line",
+        "Comparing Falcon Lake Skin Lesions",
+        "Analysis of Falcon Lake Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_falcon_lake_physical_3ae726_radium_paint_contami_2e5759",
+      "title": "Could Radium Paint Explain the Falcon Lake Readings?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Sample Handling and Contamination Path",
+        "Radium 226 Source Interpretations",
+        "Common Radium 226 Applications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_falcon_lake_unresolv_867903",
+      "title": "Why Falcon Lake Still Defies a Clear Answer",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Stefan Michalak's Falcon Lake Encounter",
+        "Interpretations of the Falcon Lake Evidence",
+        "Verified Findings at Falcon Lake Site"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_falcon_lake_unresolv_867903_falcon_lake_radioact_9942fa",
+      "title": "Did Radioactivity Make Falcon Lake More Credible?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Falcon Lake Sample Collection Time line",
+        "Interpretations of Radioactive Material",
+        "Falcon Lake Evidence Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_falcon_lake_unresolv_867903_falcon_lake_site_cha_06f98e",
+      "title": "Why the Falcon Lake Site Could Not Prove a Landing",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Falcon Lake Investigation Time line",
+        "Compromised Evidence Chain Analysis",
+        "Falcon Lake Physical Findings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_falcon_lake_unresolv_867903_michalak_injuries_ca_8de31c",
+      "title": "What Really Caused Michalak's Burns?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Stefan Michalak's 1967 Medical Time line",
+        "Falcon Lake Burn Pattern Interpretations",
+        "Documented Physical Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_manitoba_official_uf_3a0659",
+      "title": "What Did Canadian Authorities Actually Conclude?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Canadian UFO Records",
+        "Falcon Lake Evidence Interpretations",
+        "Canadian Agency Reporting Roles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_manitoba_official_uf_3a0659_manitoba_ufo_agency_897122",
+      "title": "Why No One Agency Owned Manitoba UFO Cases",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Manitoba UFO Report Flow",
+        "Agency Priorities in Manitoba",
+        "Falcon Lake Archive Structure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_manitoba_official_uf_3a0659_project_magnet_polic_e2bb67",
+      "title": "Did Project Magnet Prove Anything Extraordinary?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Project Magnet Operational Workflow",
+        "Smith vs. Government Interpretations",
+        "Project Magnet Technical Instrumentation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_manitoba_official_uf_3a0659_second_storey_report_20672b",
+      "title": "Why Canada's UFO Reporting Form Never Took Hold",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Second Storey Administrative Workflow",
+        "Standardized vs. Fragmented Reporting",
+        "Fragmented Archives of Manitoba UFOs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_manitoba_ufo_sceptic_3d3172",
+      "title": "Which Explanations Best Fit Manitoba's UFO Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Falcon Lake Incident Chain of Custody",
+        "Sceptical Explanations for Manitoba Sightings",
+        "Falcon Lake Evidence Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_manitoba_ufo_sceptic_3d3172_charlie_redstar_witn_ed1349",
+      "title": "Did Expectation Create Charlie Redstar?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Publicity Cycle of Charlie Redstar",
+        "Interpretations of Charlie Redstar Evidence",
+        "Factors Influencing Nighttime Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_manitoba_ufo_sceptic_3d3172_falcon_lake_burns_422fed",
+      "title": "Did Falcon Lake's Burns Prove a Craft?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "gem"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Stefan Michalak Medical Time line",
+        "Falcon Lake Burn Interpretations",
+        "Evidence in Falcon Lake Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manitoba_c1a386_manitoba_ufo_sceptic_3d3172_falcon_lake_radioact_9942fa",
+      "title": "Why Falcon Lake's Radioactivity Proves So Little",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Falcon Lake Evidence Chain Breakdown",
+        "Radioactivity Source Hypotheses",
+        "Falcon Lake Laboratory Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9",
+      "title": "What Really Happened in New Brunswick's UFO Cases?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "New Brunswick UFO Archival Time line",
+        "Sugarloaf Mountain Sighting Interpretations",
+        "New Brunswick UFO Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_fredericton_friedman_69c82e",
+      "title": "Why Did Fredericton Become a UFO Research Centre?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Stanton Friedman's Research Workflow",
+        "Interpretations of the Roswell Archive",
+        "Contents of the Friedman Fonds"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_fredericton_friedman_69c82e_friedman_fonds_proce_62035c",
+      "title": "Why Friedman's UFO Archive Is So Hard to Process",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Archival Processing of Friedman Fonds",
+        "Mixed Media in Friedman Collection",
+        "Digitization vs. Archival Processing"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_fredericton_friedman_69c82e_friedman_museum_arch_2a2aa3",
+      "title": "Museum Display or Archive: What Do We Learn?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Stanton Friedman Museum Exhibition Themes",
+        "Museum vs. Provincial Archives Roles",
+        "Friedman's Legacy Interpretation Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_fredericton_friedman_69c82e_friedman_witness_sto_f78633",
+      "title": "Did UFO Witness Stories Change Over Time?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Stanton Friedman Archive Preservation Process",
+        "Analyzing Witness Testimony Reliability",
+        "Factors Influencing Testimony Evolution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_gagetown_military_uf_62f27f",
+      "title": "Does Base Gagetown Explain the UFO Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "David Marceau's 1992 Gagetown Encounter Time line",
+        "Gagetown Military Activity Explanations",
+        "Evidence Weaknesses in the 1992 Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_gagetown_military_uf_62f27f_gagetown_missing_rec_488742",
+      "title": "Why the Gagetown Records Cannot Close the Case",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "fact_box_sidebar",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Gagetown Sighting Date Discrepancies",
+        "Gagetown Archive Data Categories",
+        "Investigative Barriers at Gagetown"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_gagetown_military_uf_62f27f_gagetown_night_train_cff5ec",
+      "title": "Could Night Exercises Create a Giant UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Perceptual Grouping of Military Activity",
+        "Gagetown Night Exercise Visuals",
+        "Aviation Hazards at Night"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_gagetown_military_uf_62f27f_marceau_1992_evidenc_6c2dc4",
+      "title": "What Can the 1992 Gagetown Sighting Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Marceau Sighting Reporting Time line",
+        "Gagetown Sighting Interpretations",
+        "Evidence Gaps in Marceau Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_heath_steele_ufo_cla_9aa38a",
+      "title": "What Happened Near Heath Steele Mine?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Heath Steele Mine Sighting Key Stages",
+        "Heath Steele Industrial Explanations",
+        "Missing Evidence at Heath Steele"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_heath_steele_ufo_cla_9aa38a_heath_steele_mine_ex_f95886",
+      "title": "Could the Mine Itself Explain the UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Heath Steele Mine Industrial Infrastructure",
+        "Heath Steele Sighting Interpretations",
+        "Evidence for Investigation Testing"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_heath_steele_ufo_cla_9aa38a_heath_steele_story_g_bc97fd",
+      "title": "How Did a UFO Sighting Become an Alien Landing?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Heath Steele Narrative",
+        "Claim Escalation vs. Public Record",
+        "Factors Influencing Narrative Growth"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_heath_steele_ufo_cla_9aa38a_heath_steele_witness_3d6129",
+      "title": "What Did the Heath Steele Witnesses Actually See?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Heath Steele Mine Sighting Time line",
+        "Evidence Gap in Heath Steele Case",
+        "Missing Evidence Categories for Heath Steele"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_official_ufo_files_1_15e269",
+      "title": "What Do New Brunswick's Official UFO Files Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "New Brunswick UFO Reporting Pipeline",
+        "New Brunswick Sighting Interpretations",
+        "Evidence Gaps in Official Files"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_official_ufo_files_1_15e269_acadie_siding_aircra_e018f8",
+      "title": "Was the Acadie Siding UFO an Aircraft?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Acadie Siding Investigation Time line",
+        "Acadie Siding Aircraft Hypothesis Analysis",
+        "Acadie Siding Witness Observations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_official_ufo_files_1_15e269_nb_ufo_federal_file_c35b39",
+      "title": "What Did Canada's Official UFO Files Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "RCMP New Brunswick Reporting Route",
+        "Archive Value vs. Technical Evidence",
+        "Federal Agency Roles in UFO Reporting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_official_ufo_files_1_15e269_sheffield_astronomic_ddbe54",
+      "title": "Did Sheffield Witnesses See a Planet?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Sheffield Sighting Administrative Path",
+        "Sheffield Sighting Interpretations",
+        "Binocular Optical Effects"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_sugarloaf_ufo_folklo_5f3c76",
+      "title": "Did UFOs Really Hover Over Sugarloaf Mountain?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Sugarloaf Mountain UFO Key Stages",
+        "Plausible Explanations for Sugarloaf Lights",
+        "Evidence Gaps in 1989 Triangle Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_sugarloaf_ufo_folklo_5f3c76_sugarloaf_rcmp_sight_a7e046",
+      "title": "What Did the RCMP See Near Sugarloaf?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "RCMP Patrol Sighting Time line",
+        "Visual Perception vs. Physical Reality",
+        "Limitations of the 1971 RCMP Record"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_sugarloaf_ufo_folklo_5f3c76_sugarloaf_triangle_s_e8ef24",
+      "title": "How Strong Is the Sugarloaf Triangle Story?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Sugarloaf Mountain Folklore",
+        "1971 vs 1989 Sugarloaf Records",
+        "Missing First Generation Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "New_Brunswick_cd41a9_sugarloaf_ufo_folklo_5f3c76_sugarloaf_ufo_flap_1_cf7bba",
+      "title": "Why Did UFO Reports Spread Around Sugarloaf?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "August 1971 Sugarloaf Mountain Key Stages",
+        "Interpretations of the Sugarloaf Flap",
+        "Sugarloaf Mountain Regional Flap Features"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11",
+      "title": "What Really Happened in Newfoundland's UFO Cases?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Chronology of Newfoundland UFO Cases",
+        "Interpretations of Harbour Mille Sightings",
+        "Credibility Scale of Provincial UFO Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_canadian_ufo_officia_176c3c",
+      "title": "What Do Canada's UFO Files Actually Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Newfoundland and Labrador Report Flow",
+        "Agency Mandates for UFO Files",
+        "Classification of Unidentified Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_canadian_ufo_officia_176c3c_cadors_ufo_entries_54d590",
+      "title": "Does a CADORS UFO Entry Confirm Anything?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "CADORS Aviation Occurrence Reporting Chain",
+        "CADORS Evidence vs. Investigative Conclusions",
+        "Common Misidentifications in Newfoundland Airspace"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_canadian_ufo_officia_176c3c_labrador_us_military_1ea763",
+      "title": "Why Did Labrador UFO Reports Reach US Files?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Labrador UFO Reporting Pathways",
+        "Interpreting American Archive Presence",
+        "Goose Bay Strategic Defence Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_canadian_ufo_officia_176c3c_rcmp_ufo_report_mean_6aec46",
+      "title": "What Did an RCMP UFO File Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "RCMP UFO File Creation Workflow",
+        "Verifiable Facts vs. Speculation",
+        "RCMP Record Categories in Newfoundland"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_clarenville_ufo_case_812371",
+      "title": "Why Does the Clarenville UFO Case Endure?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Clarenville UFO Sighting",
+        "Interpretations of the Clarenville Phenomenon",
+        "Evidence Profile of the Clarenville Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_clarenville_ufo_case_812371_blackwood_witness_ac_5ca844",
+      "title": "How Reliable Was James Blackwood's UFO Account?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "James Blackwood's Clarenville Observation Key Stages",
+        "Credibility vs. Limitation Analysis",
+        "Physical Characteristics of the Craft"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_clarenville_ufo_case_812371_clarenville_jupiter_2700f2",
+      "title": "Was the Clarenville UFO Actually Jupiter?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Optical Distortion of Jupiter",
+        "Clarenville Sighting Interpretations",
+        "Clarenville Observation Variables"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_clarenville_ufo_case_812371_clarenville_missing_ae6e00",
+      "title": "Why Clarenville Still Has No Definitive Answer",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Clarenville UFO Sighting",
+        "Evidence Gaps in the Clarenville Case",
+        "Unresolved Explanations for Clarenville"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_goose_bay_radar_case_0e7f12",
+      "title": "Was the Goose Bay Radar Target Really Unexplained?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Goose Bay Radar Observation Time line",
+        "Goose Bay Radar Interpretations",
+        "Evidence Gaps in Goose Bay Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_goose_bay_radar_case_0e7f12_goose_bay_balloon_ex_dd2881",
+      "title": "Could a Weather Balloon Explain the Goose Bay Return?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Goose Bay Radar Investigation Logic",
+        "Balloon Hypothesis Evidence Gaps",
+        "Rawinsonde Balloon Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_goose_bay_radar_case_0e7f12_goose_bay_broken_rad_4c06ed",
+      "title": "Why the Goose Bay Radar Track Did Not Add Up",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Goose Bay Radar Observation Key Stages",
+        "Interpretations of Broken Geometry",
+        "Factors Limiting Data Reconstruction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_goose_bay_radar_case_0e7f12_goose_bay_two_operat_a8f0b8",
+      "title": "Did Two Operators Make the Goose Bay Sighting Stronger?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Goose Bay Radar Observation Key Stages",
+        "Witness vs. Sensor Evidence Quality",
+        "Required Corroboration for Goose Bay"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_labrador_aircrew_enc_1ee934",
+      "title": "What Did Pilots See Over Labrador?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "BOAC Flight 510 196 Encounter Time line",
+        "Interpretations of the Labrador Formation",
+        "Evidence Profile of the 1954 Sighting"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_labrador_aircrew_enc_1ee934_boac_crew_testimony_474cec",
+      "title": "How Strong Was the BOAC Crew's Testimony?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "BOAC Stratocruiser Sighting Time line",
+        "Interpretations of Labrador Sighting",
+        "Reliable Crew Observations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_labrador_aircrew_enc_1ee934_labrador_radar_claim_86fb57",
+      "title": "Did Radar Really Confirm the Labrador UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "cards_grid",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "The 1954 Labrador Encounter Key Stages",
+        "Documented Facts vs. Later Retellings",
+        "Evidence Limitations of the Labrador Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_labrador_aircrew_enc_1ee934_superior_mirage_theo_9ee85a",
+      "title": "Could a Mirage Explain the Shape Shifting Formation?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Superior Mirage Optical Formation",
+        "Labrador Sighting Interpretations",
+        "Fata Morgana Optical Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_military_aviation_cr_1d6173",
+      "title": "Why Newfoundland Became a UFO Crossroads",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gander and Goose Bay Aviation History",
+        "Interpretations of the 1954 BOAC Case",
+        "Factors Influencing Newfoundland UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_military_aviation_cr_1d6173_cold_war_unknown_rep_066113",
+      "title": "Why Cold War Bases Recorded Every Unknown",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cold War Air Defence Reporting Chain",
+        "Interpreting Newfoundland Radar Records",
+        "Potential Causes for Unidentified Returns"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_military_aviation_cr_1d6173_gander_ufo_reporting_f0e89c",
+      "title": "Why Did Gander Generate So Many UFO Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "orbital_rings",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "other",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Gander Airport Witness Network",
+        "Credibility vs. Certainty at Gander",
+        "North Atlantic Atmospheric Distortions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Newfoundland_and_Lab_16bd11_military_aviation_cr_1d6173_goose_bay_training_m_c8ee29",
+      "title": "How Goose Bay Training Could Look Like UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Goose Bay Military Training Key Stages",
+        "Goose Bay UFO Sightings Explanations",
+        "Goose Bay Training Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265",
+      "title": "What Really Happened in the Northern Skies?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Northwest Territories UFO Records",
+        "Clan Lake Investigation Interpretations",
+        "Common Northern Sky Misidentifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_clan_lake_impact_cas_0e05dc",
+      "title": "Did Something Really Crash into Clan Lake?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Clan Lake Incident Key Stages 1960",
+        "Clan Lake Interpretations Comparison",
+        "Evidence Hierarchy at Clan Lake"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_clan_lake_impact_cas_0e05dc_clan_lake_rcmp_searc_d13440",
+      "title": "Why the Clan Lake Search Never Settled the Case",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "RCMP Clan Lake Investigation Time line",
+        "Clan Lake Search Methodology Limits",
+        "Factors Inhibiting Definitive Conclusions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_clan_lake_impact_cas_0e05dc_clan_lake_witness_li_67adfd",
+      "title": "What Did the Clan Lake Witness Actually See?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Clan Lake Witness Observation Key Stages",
+        "Clan Lake Observational Limitations",
+        "Clan Lake Witness Credibility Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_great_slave_lake_wav_4ee669",
+      "title": "What Caused the Great Slave Lake Wave?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Great Slave Lake Wave",
+        "Interpretations of the Fort Resolution Light",
+        "Evidence Gaps in the Great Slave Lake Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_great_slave_lake_wav_4ee669_fort_resolution_venu_91c566",
+      "title": "Was the Fort Resolution Light Really Venus?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_horizon",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "Fort Resolution Light Interpretations",
+        "Venus Observation Characteristics",
+        "Unresolved Fort Resolution Details"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_great_slave_lake_wav_4ee669_hay_river_meteor_7bdca5",
+      "title": "Why the Hay River UFO Was Probably a Meteor",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Hay River Emergency Response Time line",
+        "Hay River Sighting Interpretations",
+        "Hay River vs Fort Resolution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_great_slave_lake_wav_4ee669_military_video_revie_83d0e5",
+      "title": "What Did the Military Investigation Actually Establish?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "January 1996 Fort Resolution Military Visit",
+        "Fort Resolution Video Technical Limitations",
+        "Official Investigation Findings and Gaps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_rcmp_northern_sighti_9a056d",
+      "title": "How Police Recorded Northern UFO Sightings",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "RCMP Northern Sighting Workflow",
+        "Inuvik and Fort Simpson Interpretations",
+        "Canadian Federal Archive Distribution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_rcmp_northern_sighti_9a056d_fort_simpson_ufo_ske_8f287d",
+      "title": "What Can the Fort Simpson Sketch Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Fort Simpson Sighting Documentation Time line",
+        "Visual Interpretations of the Fort Simpson Sketch",
+        "Limitations of Eyewitness Sketch Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_rcmp_northern_sighti_9a056d_inuvik_constable_sig_f6ae6f",
+      "title": "Why the Inuvik Sighting Divided the Detachment",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "RCMP Inuvik Sighting Investigation Flow",
+        "Inuvik Sighting Interpretations",
+        "RCMP Investigative Culture Standards"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_rcmp_northern_sighti_9a056d_northern_witness_cre_fcad07",
+      "title": "Does a Credible Witness Make a Strong Case?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "RCMP Investigation of July 1968 Sightings",
+        "Sincerity vs. Observational Accuracy",
+        "Missing Data in Fort Resolution Files"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_why_northern_cases_u_3d501d",
+      "title": "Why Are Northern UFO Cases So Hard to Solve?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Clan Lake Investigation Key Stages",
+        "UFO Report Status Categories",
+        "Barriers to Northern UFO Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_why_northern_cases_u_3d501d_agency_gaps_ufo_repo_4f98c2",
+      "title": "Who Is Actually Responsible for a Northern UFO Report?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Canadian UFO Report Lifecycle",
+        "Agency Mandates for Northern Sightings",
+        "Fragmented Records in Northwest Territories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_why_northern_cases_u_3d501d_missing_measurements_14f6aa",
+      "title": "The Small Details That Decide a UFO Case",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "UAP Investigation Data Requirements",
+        "Limitations of Smartphone Imagery",
+        "Northwest Territories Investigation Barriers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_why_northern_cases_u_3d501d_remote_terrain_lost_ff795c",
+      "title": "Why Northern UFO Evidence Disappears So Quickly",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Clan Lake Investigation Key Stages",
+        "Reasons for Failed Evidence Recovery",
+        "Northern Environment Obstacles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_yellowknife_pilot_si_02b4ca",
+      "title": "What Do Pilots See Near Yellowknife?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Yellowknife Flight 5071 Observation Key Stages",
+        "Plausible Explanations for Yellowknife Lights",
+        "Aviation Evidence Limitations in Yellowknife"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_yellowknife_pilot_si_02b4ca_flight_5071_unresolv_a66f9f",
+      "title": "What Did Flight 5071 See Near Yellowknife?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Flight 5071 Yellowknife Sighting Time line",
+        "Evidence Analysis of Flight 5071",
+        "Factors Limiting Flight 5071 Resolution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_yellowknife_pilot_si_02b4ca_great_slave_lake_nig_b4b8ff",
+      "title": "Could Night Illusions Explain the Yellowknife Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Autokinesis Illusion Formation Process",
+        "Yellowknife Light Interpretation Models",
+        "Great Slave Lake Flight Hazards"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Northwest_Territorie_386265_yellowknife_pilot_si_02b4ca_yellowknife_radar_tc_31c54e",
+      "title": "Why No Radar Return Did Not Settle the Case",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "cards_grid",
+        "process_steps"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Non Radar Sighting Possibilities",
+        "Yellowknife Sighting Evidence Analysis",
+        "Yellowknife Sighting Investigation Logic"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534",
+      "title": "What Really Happened in Nova Scotia's Skies?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Shag Harbour 1967 Response Time line",
+        "Plausible Explanations for Shag Harbour",
+        "Evidence Hierarchy of the Incident"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_official_search_reco_a3b2d2",
+      "title": "What Did Canada's Shag Harbour Search Find?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Shag Harbour Emergency Response Time line",
+        "Shag Harbour Evidence Analysis",
+        "Official Investigation Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_official_search_reco_a3b2d2_shag_harbour_aircraf_85ec4b",
+      "title": "Why No Missing Aircraft Matched Shag Harbour",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_chain",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Shag Harbour Aviation Verification Key Stages",
+        "Expected vs. Actual Crash Evidence",
+        "Significance of Shag Harbour Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_official_search_reco_a3b2d2_shag_harbour_record_c110ab",
+      "title": "What Do the Shag Harbour Files Actually Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Official Shag Harbour Investigation Flow",
+        "Documented Facts vs. Later Claims",
+        "Archival Sources for Shag Harbour"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_official_search_reco_a3b2d2_shag_harbour_surface_3af58e",
+      "title": "Was the Shag Harbour Foam Real Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Shag Harbour Foam Investigation Steps",
+        "Natural vs. Anomalous Foam Origins",
+        "Scientific Verification Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_shag_harbour_explana_e7a273",
+      "title": "Could Ordinary Events Explain Shag Harbour?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "structure_taxonomy",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "chronology"
+      ],
+      "titles": [
+        "Conventional Explanations for Shag Harbour Lights",
+        "Evidence Gaps in Shag Harbour Records",
+        "Atmospheric and Maritime Optical Effects"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_shag_harbour_explana_e7a273_shag_harbour_flare_t_796ec4",
+      "title": "Were the Shag Harbour Lights Really Flares?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "lighthouse",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Shag Harbour Flare Hypothesis Analysis",
+        "Conventional Explanations for Shag Harbour",
+        "Flare Theory Strengths and Weaknesses"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_shag_harbour_explana_e7a273_shag_harbour_meteor_a6959f",
+      "title": "Did a Meteor Start the Shag Harbour Mystery?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Shag Harbour Initial Alarm Key Stages",
+        "Meteor Theory Explanatory Limits",
+        "Meteor Perception Factors in Shag Harbour"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_shag_harbour_explana_e7a273_shag_harbour_militar_9ff776",
+      "title": "Was Shag Harbour a Secret Military Incident?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "list_vertical",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Shag Harbour Military Theory Analysis",
+        "Proposed Military Scenarios for Shag Harbour",
+        "Evidence Layers of the Shag Harbour Incident"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_shag_harbour_timelin_9c2a59",
+      "title": "What Happened at Shag Harbour in 1967?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Shag Harbour 1967 Incident Time line",
+        "Interpretations of the Shag Harbour Sighting",
+        "Evidence Layers of the Shag Harbour Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_shag_harbour_timelin_9c2a59_shag_harbour_rescue_c268bc",
+      "title": "Why Did a Rescue Operation Become a UFO Report?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Shag Harbour Emergency Response Time line",
+        "Conventional vs. Administrative UFO Labels",
+        "Key Evidence in Shag Harbour Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_shag_harbour_timelin_9c2a59_shag_harbour_underwa_8b691b",
+      "title": "Did Divers Find Anything Beneath Shag Harbour?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Shag Harbour Underwater Search Key Stages",
+        "Interpretations of the Negative Result",
+        "Search Constraints in 1967 Atlantic"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_shag_harbour_timelin_9c2a59_shag_harbour_witness_042ef5",
+      "title": "What Did Witnesses Actually See at Shag Harbour?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Shag Harbour Incident Key Stages",
+        "Witness Agreement vs Divergence",
+        "Shag Harbour Evidence Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_shag_harbour_witness_85778a",
+      "title": "How Reliable Were the Shag Harbour Witnesses?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Shag Harbour 1967 Emergency Response",
+        "Evidence Reliability at Shag Harbour",
+        "Factors Limiting Nighttime Accuracy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_shag_harbour_witness_85778a_shag_harbour_first_r_653721",
+      "title": "Why Shag Harbour's First Reports Carry Weight",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Shag Harbour 1967 Emergency Response",
+        "Early Witness Interpretations vs. Later Narratives",
+        "Core Evidence of the Shag Harbour Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_shag_harbour_witness_85778a_shag_harbour_night_p_27d3f2",
+      "title": "Could Darkness Distort the Shag Harbour Sighting?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Shag Harbour Emergency Response Time line",
+        "Visual Perception vs. Physical Reality",
+        "Evidence Reliability in Shag Harbour"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_shag_harbour_witness_85778a_shag_harbour_story_e_27e44c",
+      "title": "How Did the Shag Harbour Story Grow?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Shag Harbour 1967 Key Stages",
+        "Shag Harbour Narrative Layers",
+        "Shag Harbour Evidence Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_shelburne_underwater_8854d3",
+      "title": "Did the Shag Harbour Object Reach Shelburne?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Shelburne Exercise",
+        "Shag Harbour vs. Shelburne Narratives",
+        "Evidence Quality of Shelburne Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_shelburne_underwater_8854d3_shelburne_cold_war_d_84bfea",
+      "title": "Did Cold War Confusion Create the Shelburne Story?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Shelburne Underwater Memories",
+        "Shelburne Case Interpretations",
+        "Factors Influencing Underwater Observations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_shelburne_underwater_8854d3_shelburne_timeline_b_7cb910",
+      "title": "Why Shelburne Cannot Be Shag Harbour's Sequel",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Chronology of Nova Scotia UFO Claims",
+        "Shag Harbour vs. Shelburne Narratives",
+        "Evidence Hierarchy for UFO Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nova_Scotia_117534_shelburne_underwater_8854d3_sweep_clear_records_0576ea",
+      "title": "What the Naval Records Confirm About Shelburne",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Sweep Clear V Naval Time line",
+        "Verified vs. Unverified Shelburne Claims",
+        "Shelburne Case Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65",
+      "title": "What Really Lies Behind Nunavut's UFO Stories?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Baffin Island Pilot Sighting Workflow",
+        "Baffin Island Light Interpretations",
+        "Nunavut Reporting Infrastructure Gaps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_angikuni_lake_myth_b42cf0",
+      "title": "Did an Inuit Settlement Vanish at Angikuni Lake?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Angikuni Lake Legend",
+        "Evidence vs. Folklore in Angikuni Lake",
+        "Factors Fueling the Angikuni Myth"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_angikuni_lake_myth_b42cf0_angikuni_empty_camp_abbc7c",
+      "title": "Why an Empty Camp Did Not Prove Disappearance",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Angikuni Lake Legend",
+        "Interpretations of the Angikuni Site",
+        "Factors Shaping the Angikuni Myth"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_angikuni_lake_myth_b42cf0_angikuni_first_newsp_a4fc19",
+      "title": "How the Angikuni Mystery First Reached Newspapers",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Angikuni Lake Legend",
+        "1930 Article vs. Modern Legend",
+        "Missing Documentation in 1930 Report"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_angikuni_lake_myth_b42cf0_angikuni_rcmp_inquir_67bcd6",
+      "title": "Did the RCMP Confirm the Angikuni Disappearance?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "RCMP Investigation of Angikuni Lake",
+        "Angikuni Lake Legend vs. RCMP Records",
+        "Evidence Lacking in RCMP Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_arctic_sky_explanati_b6d5ec",
+      "title": "Why Do Arctic Lights Look So Unusual?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Arctic Atmospheric Optics Key Stages",
+        "Baffin Island Sighting Explanations",
+        "Arctic Aviation Perception Risks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_arctic_sky_explanati_b6d5ec_arctic_distance_illu_0b3d0a",
+      "title": "Why Arctic skies make lights seem closer and faster",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "cards_grid",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Nunavut Environmental Illusion Factors",
+        "Perceived vs. Actual Motion",
+        "Investigative Evidence Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_arctic_sky_explanati_b6d5ec_autokinesis_pilot_re_16c326",
+      "title": "Why do fixed lights seem to move over Nunavut?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanisms of Autokinesis Illusions",
+        "Baffin Island Sighting Interpretations",
+        "Arctic Flight Vulnerability Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_arctic_sky_explanati_b6d5ec_baffin_2018_sighting_491d9b",
+      "title": "What can the 2018 Baffin Island sighting really tell US?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "2018 Baffin Island Sighting Time line",
+        "Competing Explanations for Baffin Island Light",
+        "Evidence Gaps in the Baffin Island Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_baffin_pilot_sightin_526968",
+      "title": "What Did the Baffin Island Pilots See?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "CADORS Reporting and Data Flow",
+        "Baffin Island Light Explanations",
+        "Missing Evidence for Reconstruction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_baffin_pilot_sightin_526968_baffin_cadors_record_b334e5",
+      "title": "What Does the Official Baffin Report Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Baffin Island CADORS Reporting Key Stages",
+        "CADORS Record Evidence vs. Claims",
+        "CIRVIS/UFO Reporting Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_baffin_pilot_sightin_526968_baffin_light_scintil_79378f",
+      "title": "Was the Baffin Light a Twinkling Star?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Atmospheric Scintillation Mechanism",
+        "Baffin Island Sighting Evidence",
+        "Scintillation Confirmation Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_baffin_pilot_sightin_526968_baffin_pilot_testimo_0d341e",
+      "title": "How Strong Was the Pilots' Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Baffin Island Pilot Reporting Pipeline",
+        "Interpretations of the Baffin Island Light",
+        "Evidence Gaps in the Baffin Island Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_nunavut_ufo_archives_b8df00",
+      "title": "Where Are Nunavut's Older UFO Records?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Navigating the Nunavut Archive Search",
+        "Federal UFO Collection Origins",
+        "Historical Nunavut Place Names"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_nunavut_ufo_archives_b8df00_nunavut_federal_agen_a4b735",
+      "title": "Why One Nunavut Sighting Can Appear in Four Archives",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Nunavut UFO Reporting Administrative Pathway",
+        "Departmental Record Specializations in Nunavut",
+        "Clues for Reconstructing Nunavut Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_nunavut_ufo_archives_b8df00_nunavut_old_place_na_ffe75a",
+      "title": "Which Old Place Names Hide Nunavut UFO Files?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Nunavut UFO Archive Search Workflow",
+        "Iqaluit vs Frobisher Bay Records",
+        "Nunavut Historical Place Name Pairs"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_nunavut_ufo_archives_b8df00_verify_nwt_ufo_locat_771411",
+      "title": "Does This Northwest Territories UFO Report Belong to Nunavut?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Verifying Pre 1999 Northwest Territories UFO Reports",
+        "Territorial Labels vs. Geographical Evidence",
+        "Common Errors in UFO Classification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_official_reporting_s_e4fae3",
+      "title": "What Happens After a Nunavut UFO Report?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "CIRVIS to CADORS Reporting Pipeline",
+        "Agency Mandates for Nunavut Sightings",
+        "Interpreting CADORS Data base Entries"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_official_reporting_s_e4fae3_nunavut_cadors_recor_48d2e8",
+      "title": "How a Nunavut Sighting Reaches the Public Record",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "CADORS Reporting Chain in Nunavut",
+        "CADORS Record Interpretations",
+        "Data Points in CADORS Entries"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_official_reporting_s_e4fae3_nunavut_pilot_cirvis_c41598",
+      "title": "What Nunavut Pilots Should Report During a Sighting",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tree_map",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "CIRVIS Reporting Pipeline in Canada",
+        "CIRVIS Reporting Criteria for Pilots",
+        "Nunavut Sighting Investigation Realities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nunavut_1ecc65_official_reporting_s_e4fae3_nunavut_ufo_agency_r_8372cb",
+      "title": "Why One Nunavut Sighting Can Trigger Different Agencies",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "cards_grid",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Canadian Agency Mandates for Nunavut Sightings",
+        "Misconceptions of Nunavut Sighting Responses",
+        "Nunavut Sighting Processing Workflow"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742",
+      "title": "What Does Ontario's UFO Record Really Show?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ontario Government UFO Project History",
+        "Interpretations of the Carp Guardian Affair",
+        "Common Explanations for Ontario Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_great_lakes_ufo_case_027168",
+      "title": "Why Are Great Lakes UFO Cases So Difficult?",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Great Lakes Optical Deceptions",
+        "Lake Huron High Altitude Object Analysis",
+        "Great Lakes Aviation Safety Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_great_lakes_ufo_case_027168_canadian_aviation_uf_8ca257",
+      "title": "What Official Records Really Prove About Sightings",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "CADORS Aviation Occurrence Workflow",
+        "CADORS Records vs. Full Investigations",
+        "Great Lakes Cross Border Agencies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_great_lakes_ufo_case_027168_great_lakes_hovering_96cb51",
+      "title": "Why Great Lakes Lights Appear to Hover",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Geometry of Hovering Aircraft Lights",
+        "Great Lakes Visual Misperceptions",
+        "Factors Influencing Ontario UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_great_lakes_ufo_case_027168_porter_near_collisio_701448",
+      "title": "What Did the Porter Crew Nearly Hit?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Porter Airlines Evasive Maneuver Key Stages",
+        "Drone Theory vs. Official Findings",
+        "Confirmed Facts of the Encounter"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_ontario_ufo_archives_181740",
+      "title": "What Can Ontario's UFO Files Actually Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ontario UFO Report Entry Paths",
+        "Archive Evidence vs. Witness Claims",
+        "NRC Non Meteoritic File Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_ontario_ufo_archives_181740_government_paperwork_b90616",
+      "title": "Does Government Paperwork Verify an Ontario UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ontario UFO Administrative Workflow",
+        "Testimony vs. Corroborated Evidence",
+        "Ontario Archive Collection Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_ontario_ufo_archives_181740_non_meteoritic_files_832d56",
+      "title": "Why 'Non Meteoritic' Did Not Mean Alien Craft",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "NRC Non Meteoritic Filing Workflow",
+        "Misinterpreted vs. Actual Record Meaning",
+        "Conventional Explanations Still Considered"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_ontario_ufo_archives_181740_ufo_dates_locations_0223a0",
+      "title": "When Exact UFO Records Still Prove Very Little",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ontario UFO Archive Processing Flow",
+        "Administrative vs Scientific Precision",
+        "Missing Data in Ontario Archives"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_project_magnet_ottaw_b5e5b1",
+      "title": "Did Project Magnet Ever Detect a UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Magnet Official Time line",
+        "Shirley's Bay Detection Analysis",
+        "Project Magnet Monitoring Parameters"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_project_magnet_ottaw_b5e5b1_ottawa_balloon_test_a5041c",
+      "title": "Why Did Ottawa's Fake UFO Go Unreported?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Magnet Balloon Experiment Key Stages",
+        "Interpretations of the Ottawa Silence",
+        "Lessons from the Ottawa Balloon Test"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_project_magnet_ottaw_b5e5b1_shirleys_bay_verific_a5676a",
+      "title": "Could Shirley's Bay Actually Detect a UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tree_map",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Verification Key Stages for Project Magnet",
+        "Shirley's Bay Monitoring Equipment",
+        "August 1954 Gravimeter Anomaly Causes"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_project_magnet_ottaw_b5e5b1_smith_theory_vs_evid_e5d0cc",
+      "title": "Did Wilbert Smith's Evidence Support His UFO Claims?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Project Magnet Research Progression",
+        "Smith's Claims vs. Experimental Data",
+        "Historical Perspectives on Project Magnet"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_project_second_store_dc1635",
+      "title": "Why Canada Closed Its Early UFO Committee",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Second Storey Administrative Lifecycle",
+        "Millman vs. Smith Scientific Perspectives",
+        "Project Second Storey Defence Judgements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_project_second_store_dc1635_military_ufo_program_7f70a0",
+      "title": "Why Canada Declined a Military UFO Programme",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Project Second Storey Time line 1952 1954",
+        "Defence Concern Criteria for Project Second Storey",
+        "Post 1954 Reporting Distribution in Canada"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.3,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_project_second_store_dc1635_official_ufo_evidenc_337b5a",
+      "title": "Did Weak Reports Create an Official Evidence Trap?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "list_vertical",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Project Second Storey Evidence Trap",
+        "Common Flaws in Eyewitness Accounts",
+        "Risks of Official Scepticism"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_project_second_store_dc1635_ufo_reporting_form_f_3992e1",
+      "title": "Why Canada's UFO Reporting Form Never Took Hold",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Project Second Storey Reporting Workflow",
+        "Required Data for Project Second Storey",
+        "Reasons for Limited Form Adoption"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_sudbury_ufo_flaps_fd4d88",
+      "title": "What Happened During Sudbury's UFO Flaps?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Sudbury UFO Sightings",
+        "Interpretations of the 1967 Wave",
+        "Specific 1967 Sudbury Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_sudbury_ufo_flaps_fd4d88_sudbury_media_feedba_a9dc98",
+      "title": "Did Newspaper Coverage Help Create the Wave?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Sudbury Star Media Feedback Loop",
+        "Interpreting the 1967 Sudbury Cluster",
+        "Mechanisms of Reporting Waves"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_sudbury_ufo_flaps_fd4d88_vehicle_following_li_3a0068",
+      "title": "Why Did the Lights Seem to Follow Cars?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The 1967 Britt Vehicle Encounter",
+        "Perceptual Illusions vs. Pursuit",
+        "Evidence Required for Pursuit"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ontario_f9f742_sudbury_ufo_flaps_fd4d88_whitefish_landing_cl_03dd25",
+      "title": "Did Something Try to Land Near Whitefish?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Robert Grant's Whitefish Observations",
+        "Interpretations of the Whitefish Claim",
+        "Missing Evidence in Whitefish Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219",
+      "title": "What Really Happened in Prince Edward Island's Skies?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in PEI UFO Cases",
+        "Ebenezer Case Interpretations",
+        "Kensington Sighting Data Gaps"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_atlantic_fireballs_860b5a",
+      "title": "Why Fireballs Look Like Landing UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Meteor Observation Perception Key Stages",
+        "Ebenezer Landing Interpretations",
+        "Fireball Visual Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_atlantic_fireballs_860b5a_atlantic_fireball_cl_f6960a",
+      "title": "Was Atlantic Canada Watching the Same Fireball?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "August 22, 1990 Maritime Sightings",
+        "Regional Fireball vs. Ebenezer Narrative",
+        "Variations in Witness Descriptions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_atlantic_fireballs_860b5a_fireball_colour_frag_bc8194",
+      "title": "When a Fireball Looks Like a Craft",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Meteoroid Fragmentation Progression",
+        "Meteor vs. Craft Visuals",
+        "Meteoroid Chemical Color Indicators"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_atlantic_fireballs_860b5a_fireball_false_landi_44cf6c",
+      "title": "Why Fireballs Seem to Land Nearby",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Horizon Illusion Mechanism",
+        "UFO vs. Fireball Evidence",
+        "Reliable Investigation Indicators"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_ebenezer_incident_4ddeec",
+      "title": "Did Anything Really Land at Ebenezer?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Ebenezer Incident Time line of 1990",
+        "Interpretations of the Woodland Glow",
+        "Evidence Hierarchy of the Ebenezer Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_ebenezer_incident_4ddeec_ebenezer_investigati_86a65a",
+      "title": "What Did Investigators Actually Confirm at Ebenezer?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ebenezer 1990 Investigation Time line",
+        "Ebenezer Evidence vs. Claims",
+        "Ebenezer Investigation Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_ebenezer_incident_4ddeec_ebenezer_landing_cla_ec312f",
+      "title": "Did the Ebenezer Object Really Land Nearby?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_roots",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Factors Mimicking a Landing in Ebenezer",
+        "Ebenezer Case Evidence Analysis",
+        "Absence of Physical Impact Proof"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_ebenezer_incident_4ddeec_ebenezer_woodland_gl_40fbfb",
+      "title": "What Kept Glowing in the Ebenezer Woods?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ebenezer Woods Incident Key Stages",
+        "Woodland Glow Explanations",
+        "Evidence Gaps in Ebenezer Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_kensington_lights_73a3c6",
+      "title": "What Does the Kensington UFO Video Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "versus",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Plausible Explanations for Kensington Lights",
+        "Kensington Video Evidence Limits",
+        "Requirements for Scientific Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_kensington_lights_73a3c6_aircraft_drone_expla_cabf04",
+      "title": "Could Aircraft or Drones Explain the Kensington Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kensington Lights Conventional Explanations",
+        "Evidence Gaps in Kensington Footage",
+        "Drone Hypothesis Constraints"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_kensington_lights_73a3c6_missing_horizon_limi_fb3740",
+      "title": "Why the Missing Horizon Changes Everything",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "fact_box_sidebar",
+        "quadrant"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Missing Data in Kensington Footage",
+        "Apparent vs. Physical Movement",
+        "Ambiguity of the Kensington Lights"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_kensington_lights_73a3c6_mufon_confirmed_mean_1c8afe",
+      "title": "What Did MUFON Mean by 'Confirmed'?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "MUFON Kensington Investigation Workflow",
+        "Kensington Lights Linguistic Misunderst and ings",
+        "Evidence Limits in Kensington Video"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_military_recovery_cl_68be49",
+      "title": "Did the Military Recover a PEI UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Ebenezer 1990 Sighting Progression",
+        "Interpretations of the Ebenezer Case",
+        "Evidence Status of the 1990 Incident"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_military_recovery_cl_68be49_ebenezer_recovery_cl_9c751d",
+      "title": "Did the Military Recover Anything at Ebenezer?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Ebenezer Incident Narrative Evolution",
+        "Ebenezer Recovery Evidence Analysis",
+        "Missing Operational Records at Ebenezer"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_military_recovery_cl_68be49_maritime_aircraft_re_db4351",
+      "title": "Why Were Aircraft Linked to the 1990 Sightings?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Maritime Sighting Reporting Chain",
+        "Interpretations of Aircraft Activity",
+        "Maritime Sighting Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_military_recovery_cl_68be49_shag_harbour_ebeneze_43a116",
+      "title": "Why Shag Harbour Has a Stronger Military Record",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Shag Harbour Official Response Key Stages",
+        "Shag Harbour vs. Ebenezer Evidence",
+        "Missing Ebenezer Recovery Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_pei_ufo_records_dbb74e",
+      "title": "How Reliable Is PEI's UFO Record?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "timeline_vertical",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "Federal UFO Record Preservation Path",
+        "PEI Sighting Data Discrepancies",
+        "UFO Classification Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_pei_ufo_records_dbb74e_pei_2025_ufo_report_b81d64",
+      "title": "Why Did Island UFO Reports Jump in 2025?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Data Collection for Canadian UFO Survey",
+        "Interpreting the 2025 PEI Increase",
+        "Prince Edward Island Reporting Context"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_pei_ufo_records_dbb74e_pei_federal_ufo_arch_05147e",
+      "title": "What Do Federal Files Reveal About Island Sightings?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Federal UFO Record Lifecycle",
+        "Evaluating Prince Edward Island Records",
+        "Federal Agencies Handling UFO Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Prince_Edward_Island_9d3219_pei_ufo_records_dbb74e_pei_official_reporti_28f353",
+      "title": "Which Island UFO Reports Enter Official Systems?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Transport Canada CADORS Reporting Chain",
+        "Aviation vs Police Record Criteria",
+        "Factors Limiting Official Island Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e",
+      "title": "What Really Happened in Quebec's UFO History?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Hotel Bonaventure Sighting Time line",
+        "Bonaventure Sighting Interpretations",
+        "Quebec Reporting Infrastructure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e_hotel_bonaventure_ca_10948f",
+      "title": "Did a Huge Craft Hover Over Montreal?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Hotel Bonaventure Sighting Time line",
+        "Interpretations of the Montreal Phenomenon",
+        "Evidence Types in the Bonaventure Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e_hotel_bonaventure_ca_10948f_bonaventure_cloud_li_aa5880",
+      "title": "Could Montreal's Clouds Have Created the UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Cloud Light Diffusion",
+        "Hotel Bonaventure Sighting Interpretations",
+        "Montreal Urban Lighting Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e_hotel_bonaventure_ca_10948f_bonaventure_photo_ev_dceabf",
+      "title": "Do the Bonaventure Photos Show a Craft?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "venn",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evidence from Hotel Bonaventure Photos",
+        "Interpretations of the Oval Outline",
+        "Photographic Evidence Limits"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e_hotel_bonaventure_ca_10948f_bonaventure_size_cla_04ea6c",
+      "title": "Was the Bonaventure Object Really Enormous?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Calculating the Bonaventure UFO Size",
+        "Bonaventure Sighting Evidence Levels",
+        "Uncertainties in the Bonaventure Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e_quebec_2015_reportin_e06c14",
+      "title": "Why Did Quebec UFO Reports Suddenly Soar?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "structure_taxonomy",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Quebec Media Feedback Loop",
+        "2015 Canadian UFO Survey Data",
+        "Interpretations of the 2015 Surge"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e_quebec_2015_reportin_e06c14_aqu_reporting_networ_937867",
+      "title": "How AQU Reshaped Quebec's UFO Numbers",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "structure_taxonomy",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "AQU Organizational Growth Strategy",
+        "2015 Canadian UFO Survey Data",
+        "Interpreting the 2015 Quebec Surge"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e_quebec_2015_reportin_e06c14_quebec_media_feedbac_4dacb6",
+      "title": "Did Quebec's UFO Coverage Create More Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Quebec UFO Reporting Feedback Loop",
+        "Interpreting Quebec's 2015 Surge",
+        "Factors Influencing Reporting Volume"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e_quebec_aviation_ufo_fc9c80_aircraft_landing_lig_17b8d9",
+      "title": "Why airport lights can mimic impossible flight",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "earth_core"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Aircraft Landing Light Illusion Key Stages",
+        "Quebec Sighting Interpretations",
+        "Factors Enhancing Landing Light Illusions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e_quebec_aviation_ufo_fc9c80_montreal_helicopter_384697",
+      "title": "How helicopters became a giant Montreal UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Montreal Helicopter Identification Time line",
+        "Perception vs. Reality in Montreal",
+        "Factors Creating Visual Illusions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e_quebec_aviation_ufo_fc9c80_sherbrooke_pilot_sig_0150f8",
+      "title": "What did the Sherbrooke pilots actually see?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Sherbrooke Pilot Sightings Time line",
+        "Sherbrooke Sightings Interpretations",
+        "Missing Data in Sherbrooke Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e_quebec_official_ufo_c3e73a",
+      "title": "What Do Canada's Quebec UFO Files Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Quebec UFO Report Processing Path",
+        "Canadian Agency Reporting Mandates",
+        "Quebec Archive Evidence Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e_quebec_official_ufo_c3e73a_quebec_fragmented_uf_cfcb03",
+      "title": "Why Quebec UFO Reports Fell Between Agencies",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Quebec UFO Records",
+        "Agency Priorities in Quebec Sightings",
+        "Consequences of Administrative Fragmentation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e_quebec_official_ufo_c3e73a_quebec_sighting_file_5d3041",
+      "title": "How One Quebec Sighting Became a Federal File",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Quebec UFO Administrative Journey",
+        "Administrative Paperwork vs. Evidence",
+        "Quebec Federal Agency Roles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e_quebec_official_ufo_c3e73a_quebec_unexplained_f_9e159f",
+      "title": "What Does Unexplained Really Mean in Quebec UFO Files?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Quebec UFO Record Lifecycle",
+        "Unresolved vs Extraordinary Cases",
+        "Missing Evidence in Quebec Files"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e_quebec_sky_effects_0454c1",
+      "title": "Which Sky Effects Create Quebec UFO Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "masonry",
+        "cards_grid",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "other",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Natural Explanations for Quebec UFO Reports",
+        "Optical Illusions vs. Physical Objects",
+        "Verifying Quebec UFO Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e_quebec_sky_effects_0454c1_planets_following_qu_ef80c5",
+      "title": "Why a Planet Can Seem to Chase Your Car",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "The Mechanics of the Following Planet Illusion",
+        "Distinguishing Planets from Nearby Aircraft",
+        "Quebec Environmental Factors for Illusions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e_quebec_sky_effects_0454c1_quebec_fireballs_ufo_9a26c9",
+      "title": "When a Quebec Fireball Looks Like a Craft",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "September 2016 Montreal Fireball Time line",
+        "Fireball Perception vs. Reality",
+        "Meteorological and Astronomical Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Quebec_51603e_quebec_sky_effects_0454c1_quebec_winter_light_bfdb4e",
+      "title": "Why Quebec Winter Lights Hang in the Sky",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "structure_taxonomy",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Formation of Quebec Light Pillars",
+        "Light Pillar Color Indicators",
+        "UFO Sighting vs. Light Pillar"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2",
+      "title": "What Really Happened in Saskatchewan's UFO Cases?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Langenburg Sighting",
+        "Evaluating the Langenburg Evidence",
+        "Saskatchewan UFO Case Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_langenburg_sighting_a81e93",
+      "title": "Did Five UFOs Really Hover Near Langenburg?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Langenburg Encounter 1974 Time line",
+        "Langenburg Evidence Interpretations",
+        "Physical Evidence at Langenburg Site"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_langenburg_sighting_a81e93_edwin_fuhr_witness_a_b07562",
+      "title": "How Reliable Was Edwin Fuhr's UFO Account?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Langenburg Sighting",
+        "Credibility vs. Verification Analysis",
+        "Core Elements of the Langenburg Sighting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_langenburg_sighting_a81e93_langenburg_ground_ma_ce076e",
+      "title": "What Did the Langenburg Ground Marks Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Langenburg 1974 Investigation Key Stages",
+        "Langenburg Physical Evidence Analysis",
+        "Langenburg Site Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_langenburg_sighting_a81e93_langenburg_ring_expl_8ae7c0",
+      "title": "Could Ordinary Causes Explain the Langenburg Rings?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Langenburg Field Investigation Key Stages",
+        "Langenburg Ring Formation Hypotheses",
+        "Missing Forensic Elements at Langenburg"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_military_aviation_re_d61f55",
+      "title": "What Have Pilots and Military Crews Reported?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Saskatchewan Military UFO Key Stages",
+        "Interpretations of Saskatchewan Sightings",
+        "Verification Requirements for Aviation Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_military_aviation_re_d61f55_moose_jaw_1967_light_59b997",
+      "title": "Did the Moose Jaw Light Really Shoot Upward?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "The 1967 Moose Jaw Sighting Key Stages",
+        "Moose Jaw Visual Interpretation Models",
+        "Required Evidence for Verification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_military_aviation_re_d61f55_moose_jaw_1978_four_cdc754",
+      "title": "Four Lights Over Moose Jaw: Formation or Illusion?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "comparison_columns",
+        "geode"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "CFB Moose Jaw Sighting Characteristics",
+        "Moose Jaw Sighting Interpretations",
+        "Missing Evidence in Moose Jaw Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_military_aviation_re_d61f55_regina_2008_military_ae6fe5",
+      "title": "What Was the Light East of Regina?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "cards_grid"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Missing Data in Regina Records",
+        "Ordinary Explanations for Regina Lights",
+        "Credibility of Military Witnesses"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_official_ufo_records_56a07f",
+      "title": "What Do Saskatchewan's Official UFO Records Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Aviation Occurrence Reporting Chain",
+        "RCMP vs. Aviation Record Types",
+        "Hierarchy of Official File Weight"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_official_ufo_records_56a07f_pilot_sighting_repor_0836b1",
+      "title": "How Saskatchewan Pilot Sightings Enter Official Databases",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Saskatchewan Aviation Reporting Chain",
+        "Operational Data Collected by Controllers",
+        "CADORS Entry vs. Verified Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_official_ufo_records_56a07f_prairie_lights_recor_35f0da",
+      "title": "What the 2024 Prairie Lights Reports Really Prove",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "gem"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "January 2024 Prairie Lights Reporting Chain",
+        "Plausible Explanations for Prairie Lights",
+        "Evidence Quality in Saskatchewan Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_official_ufo_records_56a07f_rcmp_ufo_record_gaps_741dcf",
+      "title": "Why Saskatchewan RCMP UFO Records Disappear in Searches",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "RCMP Public Safety Assessment Flow",
+        "RCMP Record Evidential Limits",
+        "Inconsistent RCMP Incident Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_saskatchewan_ufo_fla_49ccc3",
+      "title": "Was Saskatchewan Ever Hit by a UFO Flap?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Saskatchewan UFO Reporting Patterns",
+        "Saskatchewan vs. Manitoba Records",
+        "Saskatchewan Reporting Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_saskatchewan_ufo_fla_49ccc3_saskatchewan_2015_re_67eccd",
+      "title": "Was Saskatchewan's 2015 UFO Surge Really a Flap?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "rank_podium"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "data"
+      ],
+      "titles": [
+        "Saskatchewan 2015 Reporting Locations",
+        "Flap vs. Reporting Spike Analysis",
+        "2015 Canadian Aerial Phenomena Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_saskatchewan_ufo_fla_49ccc3_saskatchewan_2020_uf_7d1575",
+      "title": "Why Saskatchewan UFO Reports Rose in 2020",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Drivers of 2020 Saskatchewan UFO Reporting",
+        "Saskatchewan vs. National Reporting Trends",
+        "Common Explanations for 2020 Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_saskatchewan_ufo_fla_49ccc3_saskatchewan_ufo_rep_b6ea14",
+      "title": "Can Saskatchewan's UFO Records Reveal a Real Wave?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Canadian UFO Reporting",
+        "Sighting Waves vs. Reporting Behavior",
+        "Federal Agency Reporting Objectives"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_st_louis_ghost_light_1809d6",
+      "title": "Is the St Louis Ghost Light Really a UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the St Louis Ghost Train Legend",
+        "Scientific Explanations for the St Louis Light",
+        "Evidence Gaps in UFO Classification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_st_louis_ghost_light_1809d6_st_louis_headlight_t_e477b1",
+      "title": "Did Car Headlights Recreate the St Louis Ghost Light?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Student Demonstration Methodology",
+        "St Louis Ghost Light Interpretations",
+        "Factors Creating the Ghost Light Illusion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_st_louis_ghost_light_1809d6_st_louis_moving_ligh_9a7eee",
+      "title": "Why Does the St Louis Light Seem to Approach?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Visual Perception of St. Louis Light",
+        "Interpretations of the St. Louis Light",
+        "Factors Influencing Light Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saskatchewan_59faf2_st_louis_ghost_light_1809d6_st_louis_railwayman_81b8eb",
+      "title": "Was There Really a Headless Railwayman at St Louis?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "St. Louis Ghost Light Interpretations",
+        "Missing Historical Evidence Records",
+        "Railwayman Legend Variations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d",
+      "title": "What Really Happened in Yukon's Northern Skies?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chronology of Yukon Aerial Phenomena",
+        "1996 Klondike Highway Interpretations",
+        "Categories of Yukon Aerial Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_fireballs_reentries_fe7854",
+      "title": "When Does a Yukon UFO Become Identifiable?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Tagish Lake Meteorite Identification Path",
+        "Yukon Fireball vs. Rocket Re entry",
+        "Independent Verification Methods for UFOs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_fireballs_reentries_fe7854_fireball_reentry_vis_0271da",
+      "title": "Fireball or Re entry: What Changes the View?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "process_steps",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "taxonomy"
+      ],
+      "titles": [
+        "Meteor vs. Rocket Re entry Characteristics",
+        "Natural Meteoroid Atmospheric Entry Key Stages",
+        "Yukon Atmospheric Observation Clues"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_fireballs_reentries_fe7854_tagish_fireball_iden_214a0f",
+      "title": "How Tagish Lake Stopped Being a UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Tagish Lake Meteorite Identification Key Stages",
+        "Evidence Types for Tagish Lake Fireball",
+        "Meteoroid vs. Artificial Craft Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_fireballs_reentries_fe7854_tagish_meteorite_fra_9b161c",
+      "title": "Why the Tagish Lake Meteorite Was So Valuable",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Tagish Lake Meteorite Recovery Process",
+        "Tagish Lake vs. Standard Meteorites",
+        "Evidence for Yukon Fireball Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_klondike_1996_reentr_9a5444",
+      "title": "Was Yukon's Giant UFO Really Space Debris?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cosmos 2335 Rocket Re entry Time line",
+        "Yukon Sighting Interpretations",
+        "Yukon Sighting Geographic Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_klondike_1996_reentr_9a5444_cosmos_rocket_match_df7d1e",
+      "title": "Was the Giant UFO a Falling Rocket?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cosmos 2335 Orbital Decay Time line",
+        "Yukon UFO vs. Rocket Re entry",
+        "Evidence for Cosmos 2335 Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_klondike_1996_reentr_9a5444_debris_craft_illusio_ee6aef",
+      "title": "Why Separate Lights Looked Like One Craft",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Cosmos 2335 Rocket Re entry Key Stages",
+        "Perception vs. Physical Reality in Yukon",
+        "Visual Mechanisms of Misperception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_klondike_1996_reentr_9a5444_klondike_witness_rep_2f7393",
+      "title": "What Did Yukon Witnesses Actually See?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Klondike Highway Sighting Time line",
+        "Witness Perception vs. Physical Reality",
+        "Regional Witness Clusters in Yukon"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_remote_yukon_reports_2ed14f",
+      "title": "What Do Yukon's Remote Sightings Really Tell US?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_snake",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "chronology"
+      ],
+      "titles": [
+        "Old Crow Sighting Interpretations",
+        "Investigative Requirements for Yukon Reports",
+        "Ethical Standards for Indigenous Testimony"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_remote_yukon_reports_2ed14f_old_crow_blue_light_c24495",
+      "title": "What Can the Old Crow Blue Light Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Old Crow Blue Light Key Stages",
+        "Evidence Strengths vs Weaknesses",
+        "Unverifiable Factors in Old Crow"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_remote_yukon_reports_2ed14f_old_crow_stalled_mac_7ceee5",
+      "title": "Did the Old Crow Sighting Stop the Machine?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Old Crow Snow Machine Encounter Key Stages",
+        "Snow Machine Failure Interpretations",
+        "Evidence Gaps in Old Crow Account"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_remote_yukon_reports_2ed14f_respectful_indigenou_24a8ed",
+      "title": "When Does Interpretation Become Cultural Projection?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Reporting Standards for Yukon UFO History",
+        "Distinguishing Individual vs. Cultural Claims",
+        "Categories of Yukon Knowledge Systems"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_yukon_close_encounte_5c3346",
+      "title": "How Strong Are Yukon's Close Encounter Claims?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "tree_map",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Little Fox Lake vs. Wolf Creek",
+        "Little Fox Lake Encounter Details",
+        "Evidence Quality in Yukon UFO Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_yukon_close_encounte_5c3346_fox_lake_vehicle_int_006521",
+      "title": "Did the Fox Lake Object Disrupt the Car?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Little Fox Lake Electrical Malfunctions",
+        "Evidence Gaps in Fox Lake Case",
+        "Proposed Forensic Testing Methods"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_yukon_close_encounte_5c3346_little_fox_lake_evid_83ee59",
+      "title": "How Strong Is the Little Fox Lake Case?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Little Fox Lake Sighting Time line",
+        "Little Fox Lake Evidence Quality",
+        "Reported Craft Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_yukon_close_encounte_5c3346_wolf_creek_memory_cl_6b41d7",
+      "title": "Can the Wolf Creek Childhood Memory Be Trusted?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Wolf Creek Childhood Encounter Time line",
+        "Wolf Creek vs. Little Fox Lake",
+        "Corroboration Barriers in Wolf Creek"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_yukon_ufo_archives_957821",
+      "title": "Who Built Yukon's UFO Record?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Yukon UFO Archive Development Time line",
+        "1996 Yukon Lights Interpretations",
+        "Yukon Archive Data Quality Metrics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_yukon_ufo_archives_957821_delayed_ufo_memory_c_a9e829",
+      "title": "When Should Delayed UFO Memories Be Trusted?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Memory Reconstruction in Yukon UFO Reports",
+        "Credibility Markers in Yukon UFO Accounts",
+        "Factors Influencing Yukon UFO Memory"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_yukon_ufo_archives_957821_yukon_ufo_archive_co_19d332",
+      "title": "How Complete Is Yukon's UFO Archive?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Yukon UFO Archive Data Layers",
+        "Civilian vs Federal UFO Records",
+        "Archive Limitations and Reporting Biases"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yukon_581b4d_yukon_ufo_archives_957821_yukon_ufo_reporting_6255b4",
+      "title": "Did Publicity Create Yukon's UFO Flap Years?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Mechanism of Reporting Inflation",
+        "Yukon Sighting Data Types",
+        "Factors Influencing Yukon Archives"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

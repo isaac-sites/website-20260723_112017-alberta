@@ -1,0 +1,67 @@
+{
+  "selection_strategy": "legacy-resolvers",
+  "ui_priority": "home-first",
+  "site_shape": {
+    "report_count": 273,
+    "max_level": 3,
+    "deep_report_count": 195,
+    "level_1_count": 13,
+    "level_counts": {
+      "1": 13,
+      "2": 65,
+      "3": 195
+    },
+    "max_children_any_node": 5,
+    "p90_children": 5,
+    "p90_topic_children": 5,
+    "avg_children": 3.33,
+    "primary_branch_count": 13,
+    "visible_nodes_depth_2": 78,
+    "visible_nodes_depth_3": 273,
+    "max_depth": 2,
+    "max_breadth": 195,
+    "breadth_by_depth": {
+      "0": 13,
+      "1": 65,
+      "2": 195
+    },
+    "p90_title_length": 16,
+    "root_density_tier": "very-dense",
+    "top_branch_density_counts": {
+      "sparse": 0,
+      "balanced": 0,
+      "dense": 13,
+      "very-dense": 0
+    },
+    "long_title_branch_count": 0,
+    "single_root_tree": false,
+    "topic_labels": [
+      "What Really Happened in Alberta's UFO History?",
+      "What Really Happened in British Columbia's Skies?",
+      "What Really Happened in Manitoba's UFO Cases?",
+      "What Really Happened in New Brunswick's UFO Cases?",
+      "What Really Happened in Newfoundland's UFO Cases?",
+      "What Really Happened in Nova Scotia's Skies?",
+      "What Really Happened in the Northern Skies?",
+      "What Really Lies Behind Nunavut's UFO Stories?",
+      "What Does Ontario's UFO Record Really Show?",
+      "What Really Happened in Quebec's UFO History?",
+      "What Really Happened in Prince Edward Island's Skies?",
+      "What Really Happened in Saskatchewan's UFO Cases?",
+      "What Really Happened in Yukon's Northern Skies?"
+    ]
+  },
+  "selected": {
+    "site_visual_identity": "signal-cobalt",
+    "site_visual_identity_source": "remote_model",
+    "site_visual_identity_confidence": "high",
+    "visual_profile": "atlas",
+    "layout_archetype": "atlas",
+    "home_layout_mode": "vertical",
+    "auto_home_layout_mode": "catalog",
+    "hierarchy_viz_mode": "cluster-diagram",
+    "palette": "signal-cobalt",
+    "motif": "horizon"
+  },
+  "candidates": []
+}
