@@ -31,12 +31,12 @@ description: 'Yukon’s UFO history is dominated by one dramatic episode: the wi
 hero_summary: 'Yukon’s UFO history is dominated by one dramatic episode: the widely reported lights seen along the Klondike Highway on 11 December 1996. At least 31 people in several communities described rows of lights, sometimes interpreted as the outline of an enormous, silent craft.'
 layout: default
 permalink: /what-really-happened-in-yukons-northern/
-nav_short_title: What Really Happened in Yukon's Northern Skies?
+nav_short_title: "Tracing the UFO Reports of Yukon"
 title: "Tracing the UFO Reports of Yukon"
-title_full: What Really Happened in Yukon's Northern Skies?
-display_title_short: What Really Happened in Yukon's Northern Skies?
+title_full: "Tracing the UFO Reports of Yukon"
+display_title_short: "Tracing the UFO Reports of Yukon"
 display_title: "Tracing the UFO Reports of Yukon"
-heading_title: What Really Happened in Yukon's Northern Skies?
+heading_title: "Tracing the UFO Reports of Yukon"
 page_heading_title: "Tracing the UFO Reports of Yukon"
 source_count: 66
 infographic_count: 3

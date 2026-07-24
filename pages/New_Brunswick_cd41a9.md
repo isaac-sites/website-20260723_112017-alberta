@@ -31,12 +31,12 @@ description: New Brunswick has a genuine UFO history, but not a single province-
 hero_summary: New Brunswick has a genuine UFO history, but not a single province-defining incident supported by physical evidence. Its record is instead a scattered mixture of Royal Canadian Mounted Police reports, federal archival files, local sighting clusters, military-area anecdotes and later civilian databases.
 layout: default
 permalink: /what-really-happened-in-new-brunswicks/
-nav_short_title: What Really Happened in New Brunswick's UFO Cases?
+nav_short_title: "What the UFO Record From New Brunswick Actually Shows"
 title: "What the UFO Record From New Brunswick Actually Shows"
-title_full: What Really Happened in New Brunswick's UFO Cases?
-display_title_short: What Really Happened in New Brunswick's UFO Cases?
+title_full: "What the UFO Record From New Brunswick Actually Shows"
+display_title_short: "What the UFO Record From New Brunswick Actually Shows"
 display_title: "What the UFO Record From New Brunswick Actually Shows"
-heading_title: What Really Happened in New Brunswick's UFO Cases?
+heading_title: "What the UFO Record From New Brunswick Actually Shows"
 page_heading_title: "What the UFO Record From New Brunswick Actually Shows"
 source_count: 104
 infographic_count: 3

@@ -31,12 +31,12 @@ description: British Columbia has produced a long and varied record of unidentif
 hero_summary: British Columbia has produced a long and varied record of unidentified flying object reports, but no single case from the province combines strong physical evidence, reliable sensor data and a conclusive official investigation.
 layout: default
 permalink: /what-really-happened-in-british/
-nav_short_title: What Really Happened in British Columbia's Skies?
+nav_short_title: "What the UFO Record From British Columbia Actually Shows"
 title: "What the UFO Record From British Columbia Actually Shows"
-title_full: What Really Happened in British Columbia's Skies?
-display_title_short: What Really Happened in British Columbia's Skies?
+title_full: "What the UFO Record From British Columbia Actually Shows"
+display_title_short: "What the UFO Record From British Columbia Actually Shows"
 display_title: "What the UFO Record From British Columbia Actually Shows"
-heading_title: What Really Happened in British Columbia's Skies?
+heading_title: "What the UFO Record From British Columbia Actually Shows"
 page_heading_title: "What the UFO Record From British Columbia Actually Shows"
 source_count: 146
 infographic_count: 3

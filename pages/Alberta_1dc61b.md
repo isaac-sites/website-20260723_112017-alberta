@@ -31,12 +31,12 @@ description: Alberta’s UFO history is not dominated by a single dramatic encou
 hero_summary: 'Alberta’s UFO history is not dominated by a single dramatic encounter. Its strongest material is a mixture of one genuinely puzzling physical-trace case, recurring reports of unusual lights, aviation and police records, and a distinctive piece of civic folklore: St Paul’s UFO Landing Pad.'
 layout: default
 permalink: /what-really-happened-in-albertas-ufo/
-nav_short_title: What Really Happened in Alberta's UFO History?
+nav_short_title: "The Stories Behind Alberta's UFO Reputation"
 title: "The Stories Behind Alberta's UFO Reputation"
-title_full: What Really Happened in Alberta's UFO History?
-display_title_short: What Really Happened in Alberta's UFO History?
+title_full: "The Stories Behind Alberta's UFO Reputation"
+display_title_short: "The Stories Behind Alberta's UFO Reputation"
 display_title: "The Stories Behind Alberta's UFO Reputation"
-heading_title: What Really Happened in Alberta's UFO History?
+heading_title: "The Stories Behind Alberta's UFO Reputation"
 page_heading_title: "The Stories Behind Alberta's UFO Reputation"
 source_count: 136
 infographic_count: 3

@@ -31,12 +31,12 @@ description: 'Saskatchewan’s UFO history is dominated by one remarkable case: 
 hero_summary: 'Saskatchewan’s UFO history is dominated by one remarkable case: Edwin Fuhr’s report of five hovering objects near Langenburg on 1 September 1974. The sighting attracted lasting attention because police examined circular marks in the vegetation that appeared to correspond with Fuhr’s account.'
 layout: default
 permalink: /what-really-happened-in-saskatchewans/
-nav_short_title: What Really Happened in Saskatchewan's UFO Cases?
+nav_short_title: "The Stories Behind Saskatchewan's UFO Reputation"
 title: "The Stories Behind Saskatchewan's UFO Reputation"
-title_full: What Really Happened in Saskatchewan's UFO Cases?
-display_title_short: What Really Happened in Saskatchewan's UFO Cases?
+title_full: "The Stories Behind Saskatchewan's UFO Reputation"
+display_title_short: "The Stories Behind Saskatchewan's UFO Reputation"
 display_title: "The Stories Behind Saskatchewan's UFO Reputation"
-heading_title: What Really Happened in Saskatchewan's UFO Cases?
+heading_title: "The Stories Behind Saskatchewan's UFO Reputation"
 page_heading_title: "The Stories Behind Saskatchewan's UFO Reputation"
 source_count: 96
 infographic_count: 3

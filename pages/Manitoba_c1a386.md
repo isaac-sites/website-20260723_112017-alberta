@@ -31,12 +31,12 @@ description: Manitoba occupies an unusually important place in Canadian UFO hist
 hero_summary: Manitoba occupies an unusually important place in Canadian UFO history.
 layout: default
 permalink: /what-really-happened-in-manitobas-ufo/
-nav_short_title: What Really Happened in Manitoba's UFO Cases?
+nav_short_title: "From Strange Sightings to Answers in Manitoba"
 title: "From Strange Sightings to Answers in Manitoba"
-title_full: What Really Happened in Manitoba's UFO Cases?
-display_title_short: What Really Happened in Manitoba's UFO Cases?
+title_full: "From Strange Sightings to Answers in Manitoba"
+display_title_short: "From Strange Sightings to Answers in Manitoba"
 display_title: "From Strange Sightings to Answers in Manitoba"
-heading_title: What Really Happened in Manitoba's UFO Cases?
+heading_title: "From Strange Sightings to Answers in Manitoba"
 page_heading_title: "From Strange Sightings to Answers in Manitoba"
 source_count: 81
 infographic_count: 3

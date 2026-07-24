@@ -31,12 +31,12 @@ description: Newfoundland and Labrador has produced several of Canada’s most m
 hero_summary: Newfoundland and Labrador has produced several of Canada’s most memorable UFO reports, but no case has yielded physical evidence of an extraordinary craft.
 layout: default
 permalink: /newfoundland-and-labrador/
-nav_short_title: What Really Happened in Newfoundland's UFO Cases?
+nav_short_title: "Which UFO Claims From Newfoundland and Labrador Hold Up?"
 title: "Which UFO Claims From Newfoundland and Labrador Hold Up?"
-title_full: What Really Happened in Newfoundland's UFO Cases?
-display_title_short: What Really Happened in Newfoundland's UFO Cases?
+title_full: "Which UFO Claims From Newfoundland and Labrador Hold Up?"
+display_title_short: "Which UFO Claims From Newfoundland and Labrador Hold Up?"
 display_title: "Which UFO Claims From Newfoundland and Labrador Hold Up?"
-heading_title: What Really Happened in Newfoundland's UFO Cases?
+heading_title: "Which UFO Claims From Newfoundland and Labrador Hold Up?"
 page_heading_title: "Which UFO Claims From Newfoundland and Labrador Hold Up?"
 source_count: 132
 infographic_count: 3

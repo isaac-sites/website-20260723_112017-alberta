@@ -31,12 +31,12 @@ description: 'Nova Scotia’s UFO history is dominated by one event: the Shag Ha
 hero_summary: 'Nova Scotia’s UFO history is dominated by one event: the Shag Harbour incident of 4 October 1967. Witnesses on the province’s south-west coast saw lights descend towards the Atlantic and apparently remain on or just above the water.'
 layout: default
 permalink: /what-really-happened-in-nova-scotias/
-nav_short_title: What Really Happened in Nova Scotia's Skies?
+nav_short_title: "The Stories Behind Nova Scotia's UFO Reputation"
 title: "The Stories Behind Nova Scotia's UFO Reputation"
-title_full: What Really Happened in Nova Scotia's Skies?
-display_title_short: What Really Happened in Nova Scotia's Skies?
+title_full: "The Stories Behind Nova Scotia's UFO Reputation"
+display_title_short: "The Stories Behind Nova Scotia's UFO Reputation"
 display_title: "The Stories Behind Nova Scotia's UFO Reputation"
-heading_title: What Really Happened in Nova Scotia's Skies?
+heading_title: "The Stories Behind Nova Scotia's UFO Reputation"
 page_heading_title: "The Stories Behind Nova Scotia's UFO Reputation"
 source_count: 56
 infographic_count: 3
