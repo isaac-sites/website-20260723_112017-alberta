@@ -32,12 +32,12 @@ hero_summary: British Columbia has produced a long and varied record of unidenti
 layout: default
 permalink: /what-really-happened-in-british/
 nav_short_title: What Really Happened in British Columbia's Skies?
-title: What Really Happened in British Columbia's Skies?
+title: "What the UFO Record From British Columbia Actually Shows"
 title_full: What Really Happened in British Columbia's Skies?
 display_title_short: What Really Happened in British Columbia's Skies?
-display_title: What Really Happened in British Columbia's Skies?
+display_title: "What the UFO Record From British Columbia Actually Shows"
 heading_title: What Really Happened in British Columbia's Skies?
-page_heading_title: What Really Happened in British Columbia's Skies?
+page_heading_title: "What the UFO Record From British Columbia Actually Shows"
 source_count: 146
 infographic_count: 3
 page_website_name: British Columbia

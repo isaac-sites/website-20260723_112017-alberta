@@ -361,8 +361,7 @@ The simplest reason the case remains in UFO catalogues is that the object was ne
 
 <img src="{{ "/assets/images/Nunavut_1ecc65_arctic_sky_explanati_b6d5ec_baffin_2018_sighting_491d9b-Illustration-3-dark.svg" | relative_url }}" alt="2018 Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Nunavut_1ecc65_arctic_sky_explanati_b6d5ec_baffin_2018_sighting_491d9b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nunavut_1ecc65_arctic_sky_explanati_b6d5ec_baffin_2018_sighting_491d9b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case remains unresolved
-
+## The evidence gaps around 2018 Sighting
 The Baffin Island sighting illustrates an important difference between **unexplained** and **unexplainable**.
 
 Several limitations prevent a definitive reconstruction:

@@ -432,8 +432,7 @@ A stronger case would require the release of Bédard’s interview dates, full w
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FNAJ0FU6Id8" title="3 Canadian UFO Encounters" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FNAJ0FU6Id8" target="_blank" rel="noopener noreferrer">3 Canadian UFO Encounters</a></p><p class="youtube-embed-meta">Channel: Paranormally Listed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FNAJ0FU6Id8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FNAJ0FU6Id8">Open on YouTube</a></p></div></div></div>
 
-## The fairest assessment
-
+## What the evidence supports about Heath Steele
 The Heath Steele Mine story should not be dismissed simply because it concerns a UFO. A reported multi-witness event at a remote industrial site is historically relevant to New Brunswick, particularly when local people have continued to commemorate it. The witnesses may have encountered something genuinely puzzling, and the thin official record does not prove that nothing unusual occurred.
 
 However, the case is weakly documented in the public domain. Its core may be a sincere sighting, but the available sources do not establish a landing, occupants or an extraterrestrial origin. The absence of accessible contemporary statements makes it impossible to know how closely later narratives match what was originally seen.

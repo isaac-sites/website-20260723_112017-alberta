@@ -32,12 +32,12 @@ hero_summary: 'Alberta’s UFO history is not dominated by a single dramatic enc
 layout: default
 permalink: /what-really-happened-in-albertas-ufo/
 nav_short_title: What Really Happened in Alberta's UFO History?
-title: What Really Happened in Alberta's UFO History?
+title: "The Stories Behind Alberta's UFO Reputation"
 title_full: What Really Happened in Alberta's UFO History?
 display_title_short: What Really Happened in Alberta's UFO History?
-display_title: What Really Happened in Alberta's UFO History?
+display_title: "The Stories Behind Alberta's UFO Reputation"
 heading_title: What Really Happened in Alberta's UFO History?
-page_heading_title: What Really Happened in Alberta's UFO History?
+page_heading_title: "The Stories Behind Alberta's UFO Reputation"
 source_count: 136
 infographic_count: 3
 page_website_name: Alberta

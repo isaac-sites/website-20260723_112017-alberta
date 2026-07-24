@@ -32,12 +32,12 @@ hero_summary: New Brunswick has a genuine UFO history, but not a single province
 layout: default
 permalink: /what-really-happened-in-new-brunswicks/
 nav_short_title: What Really Happened in New Brunswick's UFO Cases?
-title: What Really Happened in New Brunswick's UFO Cases?
+title: "What the UFO Record From New Brunswick Actually Shows"
 title_full: What Really Happened in New Brunswick's UFO Cases?
 display_title_short: What Really Happened in New Brunswick's UFO Cases?
-display_title: What Really Happened in New Brunswick's UFO Cases?
+display_title: "What the UFO Record From New Brunswick Actually Shows"
 heading_title: What Really Happened in New Brunswick's UFO Cases?
-page_heading_title: What Really Happened in New Brunswick's UFO Cases?
+page_heading_title: "What the UFO Record From New Brunswick Actually Shows"
 source_count: 104
 infographic_count: 3
 page_website_name: New Brunswick

@@ -373,8 +373,7 @@ The Moose Jaw report illustrates this distinction clearly. The witness group pro
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qaS94Z2IZG4" title="Unexplained phenomena in small town Saskatchewan 50 years ago: were there UFOs seen in Langenburg?" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qaS94Z2IZG4" target="_blank" rel="noopener noreferrer">Unexplained phenomena in small town Saskatchewan 50 years ago: were there UFOs seen in Langenburg?</a></p><p class="youtube-embed-meta">Channel: CBC News Saskatchewan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qaS94Z2IZG4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qaS94Z2IZG4">Open on YouTube</a></p></div></div></div>
 
-## Why the case remains unresolved
-
+## What keeps Moose Jaw 1978 unresolved
 The case survives because no definitive explanation was recorded, not because compelling evidence for an extraordinary object emerged.
 
 Several important pieces of information are absent from the public record:

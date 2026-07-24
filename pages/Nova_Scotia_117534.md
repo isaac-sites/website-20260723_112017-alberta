@@ -32,12 +32,12 @@ hero_summary: 'Nova Scotia’s UFO history is dominated by one event: the Shag H
 layout: default
 permalink: /what-really-happened-in-nova-scotias/
 nav_short_title: What Really Happened in Nova Scotia's Skies?
-title: What Really Happened in Nova Scotia's Skies?
+title: "The Stories Behind Nova Scotia's UFO Reputation"
 title_full: What Really Happened in Nova Scotia's Skies?
 display_title_short: What Really Happened in Nova Scotia's Skies?
-display_title: What Really Happened in Nova Scotia's Skies?
+display_title: "The Stories Behind Nova Scotia's UFO Reputation"
 heading_title: What Really Happened in Nova Scotia's Skies?
-page_heading_title: What Really Happened in Nova Scotia's Skies?
+page_heading_title: "The Stories Behind Nova Scotia's UFO Reputation"
 source_count: 56
 infographic_count: 3
 page_website_name: Nova Scotia

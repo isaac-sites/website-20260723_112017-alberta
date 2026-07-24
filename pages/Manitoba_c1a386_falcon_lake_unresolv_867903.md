@@ -408,8 +408,7 @@ None of these possibilities explains every element comfortably. More importantly
 
 <img src="{{ "/assets/images/Manitoba_c1a386_falcon_lake_unresolv_867903-Illustration-3-dark.svg" | relative_url }}" alt="Falcon Lake illustration 3" data-theme-src-dark="{{ "/assets/images/Manitoba_c1a386_falcon_lake_unresolv_867903-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Manitoba_c1a386_falcon_lake_unresolv_867903-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the case remains unresolved
-
+## The evidence gaps around Falcon Lake
 The official attention given to Falcon Lake is genuine. Canadian police, military and health authorities did more than file a casual sighting report. They interviewed Michalak and other people, searched the area, examined physical objects and investigated possible radiation hazards. An RCMP summary acknowledged unexplained facts, including his illness, burns and a visible circle at the site, while noting radioactive contamination whose origin had not been determined. That wording shows uncertainty, not endorsement of a spacecraft explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">UFOs at LAC: The Falcon Lake incident, part 2</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 2 - Canada.ca...</span></span></span>
 
 The investigation nevertheless began with disadvantages that could not later be repaired:

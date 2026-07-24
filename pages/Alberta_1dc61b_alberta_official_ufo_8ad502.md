@@ -429,8 +429,7 @@ Nor does the size of the archive demonstrate a concealed discovery. The approxim
 
 Official attention should not be confused with official endorsement. Governments investigate uncertain reports precisely because their cause is not yet known. Police record allegations that are later unsubstantiated; aviation authorities record preliminary occurrences that are corrected; defence organisations check unidentified objects because some may be ordinary but operationally important. UFO files belong to the same evidential world.
 
-## The most defensible conclusion
-
+## What the record supports about Official Files
 Alberta’s government UFO files are valuable because they preserve what witnesses said, what officials did and where investigations reached their limits. They show that the subject was not simply ignored or laughed away. In selected cases, authorities interviewed people, visited locations, consulted technical specialists and retained the results.
 
 Their strongest finding, however, is modest: unidentified events occurred in the sense that some reports could not be confidently resolved. The documents do not move logically from “unidentified” to “extraterrestrial”. Duhamel remains an interesting physical-trace case because the marks were documented and their origin was not established, but the file lacks a witnessed landing or decisive material evidence.

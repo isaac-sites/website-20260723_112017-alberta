@@ -32,12 +32,12 @@ hero_summary: Newfoundland and Labrador has produced several of Canada’s most 
 layout: default
 permalink: /newfoundland-and-labrador/
 nav_short_title: What Really Happened in Newfoundland's UFO Cases?
-title: What Really Happened in Newfoundland's UFO Cases?
+title: "Which UFO Claims From Newfoundland and Labrador Hold Up?"
 title_full: What Really Happened in Newfoundland's UFO Cases?
 display_title_short: What Really Happened in Newfoundland's UFO Cases?
-display_title: What Really Happened in Newfoundland's UFO Cases?
+display_title: "Which UFO Claims From Newfoundland and Labrador Hold Up?"
 heading_title: What Really Happened in Newfoundland's UFO Cases?
-page_heading_title: What Really Happened in Newfoundland's UFO Cases?
+page_heading_title: "Which UFO Claims From Newfoundland and Labrador Hold Up?"
 source_count: 132
 infographic_count: 3
 page_website_name: Newfoundland

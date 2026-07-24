@@ -418,8 +418,7 @@ The official statement that investigators had not identified a flare, float, air
 
 <img src="{{ "/assets/images/Nova_Scotia_117534_shag_harbour_explana_e7a273-Illustration-3-dark.svg" | relative_url }}" alt="Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/Nova_Scotia_117534_shag_harbour_explana_e7a273-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nova_Scotia_117534_shag_harbour_explana_e7a273-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The fairest assessment
-
+## What the evidence supports about Explanations
 Meteors explain the apparent descent but not the prolonged offshore light. Aircraft can produce organised flashing patterns but no matching flight has been established, and no aircraft was missing. Flares can drift, flicker and descend over water, yet there is no confirmed launch source. Vessels and buoys suit the later surface observation, while refraction and poor night-time depth perception could greatly distort their appearance, but they struggle to account for the initial aerial display by themselves.
 
 The result is a genuinely unresolved Nova Scotia case with several plausible conventional pathways rather than one ordinary explanation that has been conclusively demonstrated. Later retellings have added underwater journeys, secret bases and extraordinary military encounters, but these claims are much less securely documented than the original reports, emergency response and unsuccessful search. The strongest sceptical conclusion is therefore modest: Shag Harbour does not require an exotic explanation, yet the surviving record is too sparse to determine which ordinary events produced the lights.

@@ -32,12 +32,12 @@ hero_summary: 'Yukon’s UFO history is dominated by one dramatic episode: the w
 layout: default
 permalink: /what-really-happened-in-yukons-northern/
 nav_short_title: What Really Happened in Yukon's Northern Skies?
-title: What Really Happened in Yukon's Northern Skies?
+title: "Tracing the UFO Reports of Yukon"
 title_full: What Really Happened in Yukon's Northern Skies?
 display_title_short: What Really Happened in Yukon's Northern Skies?
-display_title: What Really Happened in Yukon's Northern Skies?
+display_title: "Tracing the UFO Reports of Yukon"
 heading_title: What Really Happened in Yukon's Northern Skies?
-page_heading_title: What Really Happened in Yukon's Northern Skies?
+page_heading_title: "Tracing the UFO Reports of Yukon"
 source_count: 66
 infographic_count: 3
 page_website_name: Yukon

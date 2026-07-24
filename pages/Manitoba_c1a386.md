@@ -32,12 +32,12 @@ hero_summary: Manitoba occupies an unusually important place in Canadian UFO his
 layout: default
 permalink: /what-really-happened-in-manitobas-ufo/
 nav_short_title: What Really Happened in Manitoba's UFO Cases?
-title: What Really Happened in Manitoba's UFO Cases?
+title: "From Strange Sightings to Answers in Manitoba"
 title_full: What Really Happened in Manitoba's UFO Cases?
 display_title_short: What Really Happened in Manitoba's UFO Cases?
-display_title: What Really Happened in Manitoba's UFO Cases?
+display_title: "From Strange Sightings to Answers in Manitoba"
 heading_title: What Really Happened in Manitoba's UFO Cases?
-page_heading_title: What Really Happened in Manitoba's UFO Cases?
+page_heading_title: "From Strange Sightings to Answers in Manitoba"
 source_count: 81
 infographic_count: 3
 page_website_name: Manitoba

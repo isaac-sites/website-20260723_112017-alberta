@@ -344,8 +344,7 @@ The Prince George reports contain no known measurements capable of converting vi
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JnngUh26ToM" title="What Was The UFO/UAP I Saw Last Month Anyway?" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JnngUh26ToM" target="_blank" rel="noopener noreferrer">What Was The UFO/UAP I Saw Last Month Anyway?</a></p><p class="youtube-embed-meta">Channel: Joey Only - Cariboo Weather Dude</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JnngUh26ToM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JnngUh26ToM">Open on YouTube</a></p></div></div></div>
 
-## Why the case remains unresolved
-
+## What keeps Possible Explanations unresolved
 The Prince George sighting occupies an unusual position within British Columbia's UFO history because both sceptical and extraordinary interpretations remain limited by the same missing information.
 
 The available evidence supports several conclusions:

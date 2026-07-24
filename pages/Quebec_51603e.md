@@ -32,12 +32,12 @@ hero_summary: 'Quebec’s UFO history is dominated by one exceptionally well-kno
 layout: default
 permalink: /what-really-happened-in-quebecs-ufo/
 nav_short_title: What Really Happened in Quebec's UFO History?
-title: What Really Happened in Quebec's UFO History?
+title: "Quebec's UFO Files: Claims, Cases and Explanations"
 title_full: What Really Happened in Quebec's UFO History?
 display_title_short: What Really Happened in Quebec's UFO History?
-display_title: What Really Happened in Quebec's UFO History?
+display_title: "Quebec's UFO Files: Claims, Cases and Explanations"
 heading_title: What Really Happened in Quebec's UFO History?
-page_heading_title: What Really Happened in Quebec's UFO History?
+page_heading_title: "Quebec's UFO Files: Claims, Cases and Explanations"
 source_count: 113
 infographic_count: 3
 page_website_name: Quebec

@@ -414,8 +414,7 @@ The passage of time has also weakened the prospect of resolving the physical evi
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lqs3LQ7bIjA" title="Pure Silver Glow-in-the-Dark Coin – Canada’s Unexplained Phenomena: The Langenburg Sighting (2024)" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lqs3LQ7bIjA" target="_blank" rel="noopener noreferrer">Pure Silver Glow-in-the-Dark Coin – Canada’s Unexplained Phenomena: The Langenburg Sighting (2024)</a></p><p class="youtube-embed-meta">Channel: Royal Canadian Mint</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lqs3LQ7bIjA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lqs3LQ7bIjA">Open on YouTube</a></p></div></div></div>
 
-## The fairest assessment
-
+## Where the record leaves Langenburg
 Langenburg deserves its status as Saskatchewan’s landmark UFO case. It involved a named witness, a close reported distance, daylight conditions, a lengthy observation and physical traces inspected by an RCMP officer. Those features place it above the province’s many brief reports of unexplained lights.
 
 Its limitations are just as clear. Fuhr was the sole witness to the objects. The circles showed disturbed vegetation but had no demonstrated connection to a flying machine. Assertions about radiation, electromagnetic interference and related sightings are less firmly documented than the central account. No conventional explanation was proved, but neither was an extraordinary craft.

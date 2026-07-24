@@ -32,12 +32,12 @@ hero_summary: 'Saskatchewan’s UFO history is dominated by one remarkable case:
 layout: default
 permalink: /what-really-happened-in-saskatchewans/
 nav_short_title: What Really Happened in Saskatchewan's UFO Cases?
-title: What Really Happened in Saskatchewan's UFO Cases?
+title: "The Stories Behind Saskatchewan's UFO Reputation"
 title_full: What Really Happened in Saskatchewan's UFO Cases?
 display_title_short: What Really Happened in Saskatchewan's UFO Cases?
-display_title: What Really Happened in Saskatchewan's UFO Cases?
+display_title: "The Stories Behind Saskatchewan's UFO Reputation"
 heading_title: What Really Happened in Saskatchewan's UFO Cases?
-page_heading_title: What Really Happened in Saskatchewan's UFO Cases?
+page_heading_title: "The Stories Behind Saskatchewan's UFO Reputation"
 source_count: 96
 infographic_count: 3
 page_website_name: Saskatchewan
