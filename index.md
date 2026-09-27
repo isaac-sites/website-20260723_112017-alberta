@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Isaac Koi
+last_modified_at: 2026-09-27
 permalink: /
 home: true
 homepage_audience_mode: production
@@ -184,7 +185,13 @@ map_view:
   data: /assets/maps/canadian-provinces.json
 site_image_description: A dark Alberta prairie beneath a wide star-filled sky, with distant farm lights, a faint unusual light above the horizon and...
 ---
-
+<section class="home-structure-intro home-structure-intro--public-compact home-structure-intro--indexed-hierarchy" data-home-public-intro>
+<div class="home-structure-intro-copy">
+<p class="home-structure-intro-kicker">Topic guide</p>
+<h1 class="home-structure-intro-title">UFOs and UAP by Canadian Province</h1>
+<p class="home-structure-intro-summary">A practical guide to UFOs and UAP by Canadian Province, from the main overview to focused routes through the topic.</p>
+</div>
+</section>
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
 <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="province" data-map-layout="canada" data-map-item-type="province" data-map-label="UFO and UAP Canadian provinces and territories map" data-map-fallback-summary="Open this province or territory file from the map." data-map-src="{{ 'assets/maps/canada.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/canadian-provinces.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="CA-ON" data-map-preview-preload="8">
 <nav class="interactive-map-region-nav" aria-label="Map regions">
