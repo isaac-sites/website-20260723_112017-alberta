@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /manitoba-c1a386-manitoba-official-uf/
 description: Focused pages that expand on Official Records.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Manitoba_c1a386_manitoba_official_uf_3a0659
 parent_title: Official Records | What Really Happened in Manitoba's UFO...

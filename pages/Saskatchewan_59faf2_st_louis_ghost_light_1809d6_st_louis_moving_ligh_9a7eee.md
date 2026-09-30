@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-23 00:20:39'
+last_modified_at: '2026-07-23 00:20:39'
 parent_title: Is the St Louis Ghost Light Really a UFO? | What Really Happened in Saskatchewan's UFO...
 parent_permalink: /ghost-light/
 parent_nav_short_title: Ghost Light

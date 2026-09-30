@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /yukon-581b4d-fireballs-reentries/
 description: Focused pages that expand on Sky Explanations.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Yukon_581b4d_fireballs_reentries_fe7854
 parent_title: Sky Explanations | What Really Happened in Yukon's Northern...

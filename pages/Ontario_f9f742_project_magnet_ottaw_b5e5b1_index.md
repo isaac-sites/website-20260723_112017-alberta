@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ontario-f9f742-project-magnet-ottaw/
 description: Focused pages that expand on Project Magnet.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Ontario_f9f742_project_magnet_ottaw_b5e5b1
 parent_title: Project Magnet | What Does Ontario's UFO Record Really Show?

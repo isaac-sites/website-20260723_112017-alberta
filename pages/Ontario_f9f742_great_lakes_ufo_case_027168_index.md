@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ontario-f9f742-great-lakes-ufo-case/
 description: Focused pages that expand on Great Lakes.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Ontario_f9f742_great_lakes_ufo_case_027168
 parent_title: Great Lakes | What Does Ontario's UFO Record Really Show?

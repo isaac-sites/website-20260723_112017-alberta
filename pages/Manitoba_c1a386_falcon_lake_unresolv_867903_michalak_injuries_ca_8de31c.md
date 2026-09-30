@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-21 08:51:38'
+last_modified_at: '2026-07-21 08:51:38'
 parent_title: Why Falcon Lake Still Defies a Clear Answer | What Really Happened in Manitoba's UFO...
 parent_permalink: /falcon-lake/
 parent_nav_short_title: Falcon Lake

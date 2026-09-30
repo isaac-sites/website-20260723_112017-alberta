@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /yukon-581b4d-klondike-1996-reentr/
 description: Focused pages that expand on Klondike 1996.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Yukon_581b4d_klondike_1996_reentr_9a5444
 parent_title: Klondike 1996 | What Really Happened in Yukon's Northern...

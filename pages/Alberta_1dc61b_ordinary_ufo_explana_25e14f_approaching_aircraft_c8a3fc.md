@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-21 06:45:18'
+last_modified_at: '2026-07-21 06:45:18'
 parent_title: What Are Alberta's UFOs Most Often Mistaken For? | What Really Happened in Alberta's UFO...
 parent_permalink: /explanations/
 parent_nav_short_title: Explanations

@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-22 06:12:28'
+last_modified_at: '2026-07-22 06:12:28'
 parent_title: Did Project Magnet Ever Detect a UFO? | What Does Ontario's UFO Record Really Show?
 parent_permalink: /project-magnet-6f090e/
 parent_nav_short_title: Project Magnet

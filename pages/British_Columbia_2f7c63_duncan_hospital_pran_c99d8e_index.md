@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /british-columbia-2f7c63-duncan/
 description: Focused pages that expand on Duncan Case.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: British_Columbia_2f7c63_duncan_hospital_pran_c99d8e
 parent_title: Duncan Case | What Really Happened in British Columbia's...

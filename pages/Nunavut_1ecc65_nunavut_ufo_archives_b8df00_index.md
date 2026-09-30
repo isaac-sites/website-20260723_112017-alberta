@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /nunavut-1ecc65-nunavut-ufo-archives/
 description: Focused pages that expand on UFO Archives.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Nunavut_1ecc65_nunavut_ufo_archives_b8df00
 parent_title: UFO Archives | What Really Lies Behind Nunavut's UFO...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /prince-edward-island-9d3219-kensington/
 description: Focused pages that expand on Kensington.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Prince_Edward_Island_9d3219_kensington_lights_73a3c6
 parent_title: Kensington | Prince Edward Island

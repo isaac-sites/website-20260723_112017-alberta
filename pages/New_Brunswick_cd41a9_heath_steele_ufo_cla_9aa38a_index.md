@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-brunswick-cd41a9-heath-steele-ufo/
 description: Focused pages that expand on Heath Steele.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_Brunswick_cd41a9_heath_steele_ufo_cla_9aa38a
 parent_title: Heath Steele | What Really Happened in New Brunswick's UFO...

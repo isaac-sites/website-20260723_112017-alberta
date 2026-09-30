@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /yukon-581b4d-index/
 description: Focused pages that expand on What Really Happened in Yukon's Northern....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Yukon_581b4d
 parent_title: What Really Happened in Yukon's Northern...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-brunswick-cd41a9-fredericton/
 description: Focused pages that expand on Friedman Archive.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_Brunswick_cd41a9_fredericton_friedman_69c82e
 parent_title: Friedman Archive | What Really Happened in New Brunswick's UFO...

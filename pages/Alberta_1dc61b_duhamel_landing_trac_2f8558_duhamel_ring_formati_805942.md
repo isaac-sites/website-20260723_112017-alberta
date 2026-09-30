@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-21 06:25:43'
+last_modified_at: '2026-07-21 06:25:43'
 parent_title: Did Anything Land Near Duhamel in 1967? | What Really Happened in Alberta's UFO...
 parent_permalink: /duhamel/
 parent_nav_short_title: Duhamel

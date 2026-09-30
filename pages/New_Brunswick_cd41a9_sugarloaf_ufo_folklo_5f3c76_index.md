@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-brunswick-cd41a9-sugarloaf-ufo/
 description: Focused pages that expand on Sugarloaf.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_Brunswick_cd41a9_sugarloaf_ufo_folklo_5f3c76
 parent_title: Sugarloaf | What Really Happened in New Brunswick's UFO...

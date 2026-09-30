@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /yukon-581b4d-yukon-close-encounte/
 description: Focused pages that expand on Close Encounters.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Yukon_581b4d_yukon_close_encounte_5c3346
 parent_title: Close Encounters | What Really Happened in Yukon's Northern...

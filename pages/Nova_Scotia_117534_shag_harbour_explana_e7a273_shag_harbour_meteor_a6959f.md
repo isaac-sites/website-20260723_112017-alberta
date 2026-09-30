@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-22 01:53:22'
+last_modified_at: '2026-07-22 01:53:22'
 parent_title: Could Ordinary Events Explain Shag Harbour? | What Really Happened in Nova Scotia's Skies?
 parent_permalink: /explanations-8fddeb/
 parent_nav_short_title: Explanations
