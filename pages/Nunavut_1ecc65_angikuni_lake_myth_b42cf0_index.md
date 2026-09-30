@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /nunavut-1ecc65-angikuni-lake-myth/
 description: Focused pages that expand on Angikuni Myth.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Nunavut_1ecc65_angikuni_lake_myth_b42cf0
 parent_title: Angikuni Myth | What Really Lies Behind Nunavut's UFO...

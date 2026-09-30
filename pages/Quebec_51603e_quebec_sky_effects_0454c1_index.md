@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /quebec-51603e-quebec-sky-effects/
 description: Focused pages that expand on Sky Effects.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Quebec_51603e_quebec_sky_effects_0454c1
 parent_title: Sky Effects | What Really Happened in Quebec's UFO...

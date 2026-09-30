@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /manitoba-c1a386-charlie-redstar-wave/
 description: Focused pages that expand on Charlie Redstar.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Manitoba_c1a386_charlie_redstar_wave_7bf08f
 parent_title: Charlie Redstar | What Really Happened in Manitoba's UFO...

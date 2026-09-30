@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /northwest-territorie-386265/
 description: Focused pages that expand on Pilot Sightings.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Northwest_Territorie_386265_yellowknife_pilot_si_02b4ca
 parent_title: Pilot Sightings | Northwest Territories

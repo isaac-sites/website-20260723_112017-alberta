@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /newfoundland-and-lab-16bd11-military/
 description: Focused pages that expand on Military Skies.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Newfoundland_and_Lab_16bd11_military_aviation_cr_1d6173
 parent_title: Military Skies | Newfoundland and Labrador

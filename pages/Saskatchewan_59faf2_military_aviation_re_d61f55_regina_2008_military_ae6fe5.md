@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-22 15:36:34'
+last_modified_at: '2026-07-22 15:36:34'
 parent_title: What Have Pilots and Military Crews Reported? | What Really Happened in Saskatchewan's UFO...
 parent_permalink: /aviation-fa870c/
 parent_nav_short_title: Aviation

@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-21 22:48:55'
+last_modified_at: '2026-07-21 22:48:55'
 parent_title: Does Base Gagetown Explain the UFO Reports? | New Brunswick UFOs
 parent_permalink: /gagetown/
 parent_nav_short_title: Gagetown

@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-22 04:43:26'
+last_modified_at: '2026-07-22 04:43:26'
 parent_title: Why Do Arctic Lights Look So Unusual? | What Really Lies Behind Nunavut's UFO...
 parent_permalink: /arctic-skies/
 parent_nav_short_title: Arctic Skies

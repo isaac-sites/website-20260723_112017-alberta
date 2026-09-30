@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /yukon-581b4d-yukon-ufo-archives-957821/
 description: Focused pages that expand on Archives.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Yukon_581b4d_yukon_ufo_archives_957821
 parent_title: Archives | What Really Happened in Yukon's Northern...

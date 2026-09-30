@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-21 06:57:46'
+last_modified_at: '2026-07-21 06:57:46'
 parent_title: How Did St Paul Become Alberta's UFO Town? | What Really Happened in Alberta's UFO...
 parent_permalink: /st-paul/
 parent_nav_short_title: St Paul

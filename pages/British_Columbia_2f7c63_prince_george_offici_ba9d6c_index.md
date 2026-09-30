@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /british-columbia-2f7c63-prince-george/
 description: Focused pages that expand on Prince George.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: British_Columbia_2f7c63_prince_george_offici_ba9d6c
 parent_title: Prince George | What Really Happened in British Columbia's...

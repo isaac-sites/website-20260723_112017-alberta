@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-23 01:04:34'
+last_modified_at: '2026-07-23 01:04:34'
 parent_title: Who Built Yukon's UFO Record? | What Really Happened in Yukon's Northern...
 parent_permalink: /archives/
 parent_nav_short_title: Archives

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /newfoundland-and-lab-16bd11/
 description: Focused pages that expand on Clarenville.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Newfoundland_and_Lab_16bd11_clarenville_ufo_case_812371
 parent_title: Clarenville | Newfoundland and Labrador

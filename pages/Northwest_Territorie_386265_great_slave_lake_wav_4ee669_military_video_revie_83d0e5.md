@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-22 03:42:14'
+last_modified_at: '2026-07-22 03:42:14'
 parent_title: What Caused the Great Slave Lake Wave? | Northwest Territories
 parent_permalink: /sighting-wave/
 parent_nav_short_title: Sighting Wave

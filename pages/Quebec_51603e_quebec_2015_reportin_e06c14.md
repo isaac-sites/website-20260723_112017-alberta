@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-22 13:53:24'
+last_modified_at: '2026-07-22 13:53:24'
 parent_title: Quebec UFOs
 parent_permalink: /what-really-happened-in-quebecs-ufo/
 parent_nav_short_title: Quebec UFOs

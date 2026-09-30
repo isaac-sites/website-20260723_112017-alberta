@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /nova-scotia-117534-shelburne/
 description: Focused pages that expand on Shelburne Claim.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Nova_Scotia_117534_shelburne_underwater_8854d3
 parent_title: Shelburne Claim | What Really Happened in Nova Scotia's Skies?

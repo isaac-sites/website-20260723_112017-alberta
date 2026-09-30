@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-23 01:32:17'
+last_modified_at: '2026-07-23 01:32:17'
 parent_title: When Does a Yukon UFO Become Identifiable? | What Really Happened in Yukon's Northern...
 parent_permalink: /sky-explanations/
 parent_nav_short_title: Sky Explanations

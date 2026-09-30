@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-21 20:28:56'
+last_modified_at: '2026-07-21 20:28:56'
 parent_title: What Was Manitoba's Charlie Redstar Light Wave? | Manitoba UFOs
 parent_permalink: /charlie-redstar/
 parent_nav_short_title: Charlie Redstar

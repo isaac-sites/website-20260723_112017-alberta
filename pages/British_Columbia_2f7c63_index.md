@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /british-columbia-2f7c63-index/
 description: Focused pages that expand on What Really Happened in British Columbia's....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: British_Columbia_2f7c63
 parent_title: What Really Happened in British Columbia's...

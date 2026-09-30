@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ontario-f9f742-sudbury-ufo-flaps/
 description: Focused pages that expand on Sudbury Wave.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Ontario_f9f742_sudbury_ufo_flaps_fd4d88
 parent_title: Sudbury Wave | What Does Ontario's UFO Record Really Show?
