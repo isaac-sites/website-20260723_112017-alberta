@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /newfoundland-and-lab-16bd11-goose-bay/
 description: Focused pages that expand on Goose Bay Radar.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Newfoundland_and_Lab_16bd11_goose_bay_radar_case_0e7f12
 parent_title: Goose Bay Radar | Newfoundland and Labrador

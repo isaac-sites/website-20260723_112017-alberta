@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ontario-f9f742-ontario-ufo-archives/
 description: Focused pages that expand on UFO Archives.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Ontario_f9f742_ontario_ufo_archives_181740
 parent_title: UFO Archives | What Does Ontario's UFO Record Really Show?

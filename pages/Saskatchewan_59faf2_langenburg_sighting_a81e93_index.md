@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /saskatchewan-59faf2-langenburg/
 description: Focused pages that expand on Langenburg.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Saskatchewan_59faf2_langenburg_sighting_a81e93
 parent_title: Langenburg | What Really Happened in Saskatchewan's UFO...

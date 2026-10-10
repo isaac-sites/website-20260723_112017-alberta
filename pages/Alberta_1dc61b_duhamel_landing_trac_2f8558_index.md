@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alberta-1dc61b-duhamel-landing-trac/
 description: Focused pages that expand on Duhamel.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alberta_1dc61b_duhamel_landing_trac_2f8558
 parent_title: Duhamel | What Really Happened in Alberta's UFO...

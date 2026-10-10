@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-21 08:21:22'
+last_modified_at: '2026-07-21 08:21:22'
 parent_title: What Usually Explains British Columbia UFO Reports? | British Columbia UFOs
 parent_permalink: /explanations-89fcc8/
 parent_nav_short_title: Explanations

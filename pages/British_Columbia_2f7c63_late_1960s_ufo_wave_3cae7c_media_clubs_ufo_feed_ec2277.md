@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-21 07:40:25'
+last_modified_at: '2026-07-21 07:40:25'
 parent_title: Why Did British Columbia's UFO Wave Grow? | British Columbia UFOs
 parent_permalink: /1960-s-wave/
 parent_nav_short_title: 1960 s Wave

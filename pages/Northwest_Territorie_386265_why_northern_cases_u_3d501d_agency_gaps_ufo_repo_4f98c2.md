@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-22 04:18:29'
+last_modified_at: '2026-07-22 04:18:29'
 parent_title: Why Are Northern UFO Cases So Hard to Solve? | Northwest UFO Files
 parent_permalink: /why-unresolved/
 parent_nav_short_title: Why Unresolved

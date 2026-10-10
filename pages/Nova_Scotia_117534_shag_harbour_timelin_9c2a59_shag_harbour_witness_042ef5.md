@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-22 00:58:47'
+last_modified_at: '2026-07-22 00:58:47'
 parent_title: What Happened at Shag Harbour in 1967? | What Really Happened in Nova Scotia's Skies?
 parent_permalink: /shag-harbour/
 parent_nav_short_title: Shag Harbour

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /british-columbia-2f7c63-late-1960s-ufo/
 description: Focused pages that expand on 1960 s Wave.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: British_Columbia_2f7c63_late_1960s_ufo_wave_3cae7c
 parent_title: 1960 s Wave | What Really Happened in British Columbia's...

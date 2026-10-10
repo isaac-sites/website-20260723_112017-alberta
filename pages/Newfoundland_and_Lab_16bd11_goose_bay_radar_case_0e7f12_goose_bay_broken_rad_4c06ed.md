@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-21 23:57:58'
+last_modified_at: '2026-07-21 23:57:58'
 parent_title: Was the Goose Bay Radar Target Really Unexplained? | Newfoundland UFOs
 parent_permalink: /goose-bay-radar/
 parent_nav_short_title: Goose Bay Radar

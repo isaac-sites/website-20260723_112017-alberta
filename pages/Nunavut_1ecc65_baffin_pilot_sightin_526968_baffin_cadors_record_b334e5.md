@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-22 04:25:27'
+last_modified_at: '2026-07-22 04:25:27'
 parent_title: What Did the Baffin Island Pilots See? | Nunavut
 parent_permalink: /pilot-sighting/
 parent_nav_short_title: Pilot Sighting

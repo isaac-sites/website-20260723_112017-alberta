@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /manitoba-c1a386-manitoba-ufo-sceptic/
 description: Focused pages that expand on Doubts.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Manitoba_c1a386_manitoba_ufo_sceptic_3d3172
 parent_title: Doubts | What Really Happened in Manitoba's UFO...

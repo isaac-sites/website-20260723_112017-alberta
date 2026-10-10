@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-21 09:18:08'
+last_modified_at: '2026-07-21 09:18:08'
 parent_title: What Did Canadian Authorities Actually Conclude? | Manitoba UFOs
 parent_permalink: /official-records/
 parent_nav_short_title: Official Records

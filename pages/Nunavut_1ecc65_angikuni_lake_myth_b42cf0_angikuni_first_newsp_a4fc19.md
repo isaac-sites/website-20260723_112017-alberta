@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-22 05:31:36'
+last_modified_at: '2026-07-22 05:31:36'
 parent_title: Did an Inuit Settlement Vanish at Angikuni Lake? | What Really Lies Behind Nunavut's UFO...
 parent_permalink: /angikuni-myth/
 parent_nav_short_title: Angikuni Myth

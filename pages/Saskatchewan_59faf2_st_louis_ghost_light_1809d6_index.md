@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /saskatchewan-59faf2-st-louis-ghost/
 description: Focused pages that expand on Ghost Light.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Saskatchewan_59faf2_st_louis_ghost_light_1809d6
 parent_title: Ghost Light | What Really Happened in Saskatchewan's UFO...

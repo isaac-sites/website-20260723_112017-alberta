@@ -221,6 +221,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-21 22:48:56'
+last_modified_at: '2026-07-21 22:48:56'
 parent_title: New Brunswick UFOs
 parent_permalink: /what-really-happened-in-new-brunswicks/
 parent_nav_short_title: New Brunswick UFOs

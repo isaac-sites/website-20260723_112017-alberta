@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /nunavut-1ecc65-official-reporting-s/
 description: Focused pages that expand on Official Reports.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Nunavut_1ecc65_official_reporting_s_e4fae3
 parent_title: Official Reports | What Really Lies Behind Nunavut's UFO...

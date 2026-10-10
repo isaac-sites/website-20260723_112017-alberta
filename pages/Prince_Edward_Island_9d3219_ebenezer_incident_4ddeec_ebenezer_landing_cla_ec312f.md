@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-22 10:47:48'
+last_modified_at: '2026-07-22 10:47:48'
 parent_title: Did Anything Really Land at Ebenezer? | PEI
 parent_permalink: /ebenezer/
 parent_nav_short_title: Ebenezer

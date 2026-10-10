@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-brunswick-cd41a9-official-ufo/
 description: Focused pages that expand on Official Files.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_Brunswick_cd41a9_official_ufo_files_1_15e269
 parent_title: Official Files | What Really Happened in New Brunswick's UFO...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /quebec-51603e-quebec-2015-reportin/
 description: Focused pages that expand on 2015 Surge.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Quebec_51603e_quebec_2015_reportin_e06c14
 parent_title: 2015 Surge | What Really Happened in Quebec's UFO...

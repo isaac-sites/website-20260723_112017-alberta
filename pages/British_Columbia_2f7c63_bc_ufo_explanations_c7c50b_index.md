@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /british-columbia-2f7c63-bc-ufo/
 description: Focused pages that expand on Explanations.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: British_Columbia_2f7c63_bc_ufo_explanations_c7c50b
 parent_title: Explanations | What Really Happened in British Columbia's...

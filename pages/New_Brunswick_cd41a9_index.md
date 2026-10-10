@@ -8,6 +8,7 @@ permalink: /new-brunswick-cd41a9-index/
 description: Focused pages that expand on What Really Happened in New Brunswick's
   UFO....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_Brunswick_cd41a9
 parent_title: What Really Happened in New Brunswick's UFO...

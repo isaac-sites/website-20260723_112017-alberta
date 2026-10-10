@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /yukon-581b4d-remote-yukon-reports/
 description: Focused pages that expand on Remote Reports.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Yukon_581b4d_remote_yukon_reports_2ed14f
 parent_title: Remote Reports | What Really Happened in Yukon's Northern...

@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-22 15:23:00'
+last_modified_at: '2026-07-22 15:23:00'
 parent_title: Was Saskatchewan Ever Hit by a UFO Flap? | What Really Happened in Saskatchewan's UFO...
 parent_permalink: /sightings/
 parent_nav_short_title: Sightings

@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-22 09:50:34'
+last_modified_at: '2026-07-22 09:50:34'
 parent_title: Did Anything Really Land at Ebenezer? | Prince Edward Island
 parent_permalink: /ebenezer/
 parent_nav_short_title: Ebenezer

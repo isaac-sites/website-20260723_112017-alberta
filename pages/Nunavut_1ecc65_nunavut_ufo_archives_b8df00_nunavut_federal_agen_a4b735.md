@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-22 05:31:35'
+last_modified_at: '2026-07-22 05:31:35'
 parent_title: Where Are Nunavut's Older UFO Records? | What Really Lies Behind Nunavut's UFO...
 parent_permalink: /ufo-archives/
 parent_nav_short_title: UFO Archives

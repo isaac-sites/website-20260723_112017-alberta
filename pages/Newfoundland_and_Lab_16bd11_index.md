@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /newfoundland-and-lab-16bd11-index/
 description: Focused pages that expand on Newfoundland and Labrador.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Newfoundland_and_Lab_16bd11
 parent_title: Newfoundland and Labrador

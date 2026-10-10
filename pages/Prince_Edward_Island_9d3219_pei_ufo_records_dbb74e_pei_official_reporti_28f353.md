@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-23 00:20:38'
+last_modified_at: '2026-07-23 00:20:38'
 parent_title: How Reliable Is PEI's UFO Record? | Prince Edward Island
 parent_permalink: /records/
 parent_nav_short_title: Records

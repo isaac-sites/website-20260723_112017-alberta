@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /northwest-territorie-386265-why/
 description: Focused pages that expand on Why Unresolved.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Northwest_Territorie_386265_why_northern_cases_u_3d501d
 parent_title: Why Unresolved | Northwest Territories

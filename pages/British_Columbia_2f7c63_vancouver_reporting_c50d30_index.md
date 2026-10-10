@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /british-columbia-2f7c63-vancouver/
 description: Focused pages that expand on Vancouver Reports.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: British_Columbia_2f7c63_vancouver_reporting_c50d30
 parent_title: Vancouver Reports | What Really Happened in British Columbia's...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /saskatchewan-59faf2-military-aviation/
 description: Focused pages that expand on Aviation.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Saskatchewan_59faf2_military_aviation_re_d61f55
 parent_title: Aviation | What Really Happened in Saskatchewan's UFO...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /quebec-51603e-index/
 description: Focused pages that expand on What Really Happened in Quebec's UFO....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Quebec_51603e
 parent_title: What Really Happened in Quebec's UFO...

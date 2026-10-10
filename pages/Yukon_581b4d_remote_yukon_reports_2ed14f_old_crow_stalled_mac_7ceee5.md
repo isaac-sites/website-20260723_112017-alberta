@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-23 00:46:09'
+last_modified_at: '2026-07-23 00:46:09'
 parent_title: What Do Yukon's Remote Sightings Really Tell US? | What Really Happened in Yukon's Northern...
 parent_permalink: /remote-reports/
 parent_nav_short_title: Remote Reports

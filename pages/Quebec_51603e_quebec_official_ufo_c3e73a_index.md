@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /quebec-51603e-quebec-official-ufo/
 description: Focused pages that expand on Official Files.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Quebec_51603e_quebec_official_ufo_c3e73a
 parent_title: Official Files | What Really Happened in Quebec's UFO...

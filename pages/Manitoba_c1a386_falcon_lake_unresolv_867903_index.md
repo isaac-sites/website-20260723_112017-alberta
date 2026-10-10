@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /manitoba-c1a386-falcon-lake-unresolv/
 description: Focused pages that expand on Falcon Lake.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Manitoba_c1a386_falcon_lake_unresolv_867903
 parent_title: Falcon Lake | What Really Happened in Manitoba's UFO...

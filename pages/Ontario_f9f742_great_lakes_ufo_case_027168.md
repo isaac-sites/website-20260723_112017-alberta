@@ -221,6 +221,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-22 08:30:27'
+last_modified_at: '2026-07-22 08:30:27'
 parent_title: Ontario UFOs
 parent_permalink: /what-does-ontarios-ufo-record-really/
 parent_nav_short_title: Ontario UFOs

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alberta-1dc61b-ordinary-ufo-explana/
 description: Focused pages that expand on Explanations.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alberta_1dc61b_ordinary_ufo_explana_25e14f
 parent_title: Explanations | What Really Happened in Alberta's UFO...

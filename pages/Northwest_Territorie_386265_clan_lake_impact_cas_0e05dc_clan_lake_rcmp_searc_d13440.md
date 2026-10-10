@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-22 03:05:42'
+last_modified_at: '2026-07-22 03:05:42'
 parent_title: Did Something Really Crash into Clan Lake? | Northwest Territories
 parent_permalink: /clan-lake/
 parent_nav_short_title: Clan Lake

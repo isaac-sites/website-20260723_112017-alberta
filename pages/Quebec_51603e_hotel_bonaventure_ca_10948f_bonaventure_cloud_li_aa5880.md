@@ -218,6 +218,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-22 13:53:23'
+last_modified_at: '2026-07-22 13:53:23'
 parent_title: Did a Huge Craft Hover Over Montreal? | What Really Happened in Quebec's UFO...
 parent_permalink: /bonaventure/
 parent_nav_short_title: Bonaventure

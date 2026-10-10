@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /quebec-51603e-hotel-bonaventure-ca/
 description: Focused pages that expand on Bonaventure.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Quebec_51603e_hotel_bonaventure_ca_10948f
 parent_title: Bonaventure | What Really Happened in Quebec's UFO...

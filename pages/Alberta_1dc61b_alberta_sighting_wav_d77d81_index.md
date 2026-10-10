@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alberta-1dc61b-alberta-sighting-wav/
 description: Focused pages that expand on Sighting Waves.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alberta_1dc61b_alberta_sighting_wav_d77d81
 parent_title: Sighting Waves | What Really Happened in Alberta's UFO...

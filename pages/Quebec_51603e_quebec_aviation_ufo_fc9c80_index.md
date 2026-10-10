@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /quebec-51603e-quebec-aviation-ufo/
 description: Focused pages that expand on Aviation.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Quebec_51603e_quebec_aviation_ufo_fc9c80
 parent_title: Aviation | What Really Happened in Quebec's UFO...
