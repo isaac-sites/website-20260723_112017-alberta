@@ -4,7 +4,7 @@ title_full: Shag Harbour Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /nova-scotia-117534-shag-harbour/
+permalink: /nova-scotia-117534-shag-harbour-shag-harbour/
 description: Focused pages that expand on Shag Harbour.
 date: '2026'
 last_modified_at: '2026'
