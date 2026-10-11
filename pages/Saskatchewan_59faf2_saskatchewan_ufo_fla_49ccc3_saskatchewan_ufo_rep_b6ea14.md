@@ -939,7 +939,7 @@ The result is a patchwork rather than a continuous timeline. Individual Saskatch
 21.<a id="endnote-21"></a>
    Source: ufotransparency.com  
    Title: intl ca foia part 29 canada foia part 29 pages 8401 8759  
-   Link:<a href="https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages</a>  
+   Link:https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages  
 
 22.<a id="endnote-22"></a>
    Source: science.gc.ca  

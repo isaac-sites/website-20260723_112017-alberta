@@ -615,7 +615,7 @@ However, the archives also show the limits of official verification. Government 
 5.<a id="endnote-5"></a>
    Source: science.gc.ca  
    Title: annual report chief science advisor 2024 2025  
-   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor</a>  
+   Link:https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report of the Chief Science Advisor 2024-2025December 17, 2025 — Canada’s Sovereign Airspace: The Sky Canada Project Canada exerci...</p></details>
    Published: December 17, 2025  
 
