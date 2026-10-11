@@ -900,7 +900,6 @@ For that reason, the strongest historical reconstructions usually emerge only af
 7.<a id="endnote-7"></a>
    Source: ised-isde.canada.ca  
    Title: annual report chief science advisor 2024 2025  
-   Link:https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Report of the Chief Science Advisor 2024-2025December 17, 2025 — Canada’s Sovereign Airspace: The Sky Canada Project Canada exercises sov...</p></details>
    Published: December 17, 2025  
 
@@ -986,7 +985,6 @@ For that reason, the strongest historical reconstructions usually emerge only af
 23.<a id="endnote-23"></a>
    Source: ufotransparency.com  
    Title: intl ca foia part 29 canada foia part 29 pages 8401 8759  
-   Link:https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages  
 
 24.<a id="endnote-24"></a>
    Source: science.gc.ca  

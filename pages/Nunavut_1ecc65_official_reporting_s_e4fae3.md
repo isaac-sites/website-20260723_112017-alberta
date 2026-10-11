@@ -872,7 +872,6 @@ For assessing Nunavut UFO history, the safest reading is therefore precise but m
 12.<a id="endnote-12"></a>
    Source: ised-isde.canada.ca  
    Title: annual report chief science advisor 2024 2025  
-   Link:https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor  
 
 13.<a id="endnote-13"></a>
    Source: ised-isde.canada.ca  
