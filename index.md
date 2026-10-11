@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Isaac Koi
-last_modified_at: 2026-09-27
+last_modified_at: '2026-09-27'
 permalink: /
 home: true
 homepage_audience_mode: production
