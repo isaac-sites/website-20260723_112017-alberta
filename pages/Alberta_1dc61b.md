@@ -872,7 +872,6 @@ The available evidence does not establish extraterrestrial visitation in Alberta
 4.<a id="endnote-4"></a>
    Source: ised-isde.canada.ca  
    Title: annual report chief science advisor 2024 2025  
-   Link:https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Best estimates suggest that there are between 600 and 1,000 reports of UAP sightings in Canada every year.According to a survey commissio...</p></details>
 
 5.<a id="endnote-5"></a>
@@ -1017,7 +1016,6 @@ The available evidence does not establish extraterrestrial visitation in Alberta
 34.<a id="endnote-34"></a>
    Source: stpaul.ca  
    Title: Land Use Bylaw: Town of St. Paul  
-   Link:https://www.stpaul.ca/departments2/planning-development/land-use-bylaw  
 
 35.<a id="endnote-35"></a>
    Source: globalnews.ca  

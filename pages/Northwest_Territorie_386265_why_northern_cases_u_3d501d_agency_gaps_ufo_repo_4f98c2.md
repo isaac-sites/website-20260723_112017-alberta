@@ -883,7 +883,6 @@ The result is a recurring pattern in northern UFO history. A report is logged, a
 14.<a id="endnote-14"></a>
    Source: science.gc.ca  
    Title: annual report chief science advisor 2024 2025  
-   Link:https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report of the Chief Science Advisor 2024-2025December 17, 2025 — Canada’s Sovereign Airspace: The Sky Canada Project Canada exerci...</p></details>
    Published: December 17, 2025  
 

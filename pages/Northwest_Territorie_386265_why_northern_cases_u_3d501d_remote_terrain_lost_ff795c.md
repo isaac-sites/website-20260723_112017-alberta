@@ -824,7 +824,6 @@ These factors help explain why many northern reports end with cautious language 
 2.<a id="endnote-2"></a>
    Source: ised-isde.canada.ca  
    Title: annual report chief science advisor 2024 2025  
-   Link:https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Report of the Chief Science Advisor 2024-2025December 17, 2025 — Canada’s Sovereign Airspace: The Sky Canada Project Canada exercises sov...</p></details>
    Published: December 17, 2025  
 

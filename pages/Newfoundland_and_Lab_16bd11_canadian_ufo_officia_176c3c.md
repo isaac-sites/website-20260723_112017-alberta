@@ -912,7 +912,6 @@ The fairest reading is therefore neither “the files prove alien craft” nor �
 13.<a id="endnote-13"></a>
    Source: ised-isde.canada.ca  
    Title: annual report chief science advisor 2024 2025  
-   Link:https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor  
 
 14.<a id="endnote-14"></a>
    Source: science.ised-isde.canada.ca  
