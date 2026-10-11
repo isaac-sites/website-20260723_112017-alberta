@@ -1,11 +1,11 @@
 ---
-title: Explanations Sub-Topic Index
-title_full: Explanations Sub-Topic Index
+title: "Alberta Explanations Sub-Topic Index"
+title_full: "Alberta Explanations Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alberta-1dc61b-ordinary-ufo-explana/
-description: Focused pages that expand on Explanations.
+description: "Focused pages that expand on Explanations - Alberta."
 date: '2026'
 last_modified_at: '2026'
 layout: default

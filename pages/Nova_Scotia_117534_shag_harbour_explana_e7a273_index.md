@@ -1,11 +1,11 @@
 ---
-title: Explanations Sub-Topic Index
-title_full: Explanations Sub-Topic Index
+title: "Nova Scotia Explanations Sub-Topic Index"
+title_full: "Nova Scotia Explanations Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nova-scotia-117534-shag-harbour-explanations/
-description: Focused pages that expand on Explanations.
+description: "Focused pages that expand on Explanations - Nova Scotia."
 date: '2026'
 last_modified_at: '2026'
 layout: default

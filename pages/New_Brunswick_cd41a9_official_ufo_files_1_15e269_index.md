@@ -1,11 +1,11 @@
 ---
-title: Official Files Sub-Topic Index
-title_full: Official Files Sub-Topic Index
+title: "New Brunswick Official Files Sub-Topic Index"
+title_full: "New Brunswick Official Files Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-brunswick-cd41a9-official-ufo/
-description: Focused pages that expand on Official Files.
+description: "Focused pages that expand on Official Files - New Brunswick."
 date: '2026'
 last_modified_at: '2026'
 layout: default

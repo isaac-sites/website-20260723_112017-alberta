@@ -1,11 +1,11 @@
 ---
-title: Official Records Sub-Topic Index
-title_full: Official Records Sub-Topic Index
+title: "Manitoba Official Records Sub-Topic Index"
+title_full: "Manitoba Official Records Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /manitoba-c1a386-manitoba-official-uf/
-description: Focused pages that expand on Official Records.
+description: "Focused pages that expand on Official Records - Manitoba."
 date: '2026'
 last_modified_at: '2026'
 layout: default

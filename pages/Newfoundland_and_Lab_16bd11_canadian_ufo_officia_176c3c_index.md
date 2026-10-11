@@ -1,11 +1,11 @@
 ---
-title: Official Files Sub-Topic Index
-title_full: Official Files Sub-Topic Index
+title: "Newfoundland and Lab Official Files Sub-Topic Index"
+title_full: "Newfoundland and Lab Official Files Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /newfoundland-and-lab-16bd11-canadian/
-description: Focused pages that expand on Official Files.
+description: "Focused pages that expand on Official Files - Newfoundland and Lab."
 date: '2026'
 last_modified_at: '2026'
 layout: default

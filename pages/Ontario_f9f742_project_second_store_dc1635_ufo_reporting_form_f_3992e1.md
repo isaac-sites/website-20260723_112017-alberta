@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /what-does-ontarios-ufo-record-really/
 - /second-storey-c502dd/
 nav_short_title: Reporting Form
-title: Why Canada's UFO Reporting Form Never Took Hold
+title: "Why Canada's UFO Reporting Form Never Took Hold - Ontario"
 title_full: Why Canada's UFO Reporting Form Never Took Hold | Second Storey
 display_title_short: Reporting Form
 display_title: Reporting Form
