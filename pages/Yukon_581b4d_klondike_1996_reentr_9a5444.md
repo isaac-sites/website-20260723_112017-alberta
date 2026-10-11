@@ -895,7 +895,7 @@ That distinction is why the incident remains important within Yukon’s UFO hist
 15.<a id="endnote-15"></a>
    Source: science.gc.ca  
    Title: annual report chief science advisor 2024 2025  
-   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor</a>  
+   Link:https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor  
 
 16.<a id="endnote-16"></a>
    Source: science.gc.ca  

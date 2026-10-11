@@ -898,7 +898,7 @@ Rather than operating a single national investigation programme comparable to th
 19.<a id="endnote-19"></a>
    Source: science.gc.ca  
    Title: annual report chief science advisor 2024 2025  
-   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor</a>  
+   Link:https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report of the Chief Science Advisor 2024-2025December 17, 2025 — Canada’s Sovereign Airspace: The Sky Canada Project Canada exerci...</p></details>
    Published: December 17, 2025  
 
@@ -917,7 +917,7 @@ Rather than operating a single national investigation programme comparable to th
 22.<a id="endnote-22"></a>
    Source: ufotransparency.com  
    Title: intl ca foia part 29 canada foia part 29 pages 8401 8759  
-   Link:<a href="https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages</a>  
+   Link:https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages  
 
 23.<a id="endnote-23"></a>
    Source: publications.gc.ca  

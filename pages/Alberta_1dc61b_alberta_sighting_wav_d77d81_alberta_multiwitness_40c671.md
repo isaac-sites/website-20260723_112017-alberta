@@ -941,7 +941,7 @@ Multiple witnesses remain valuable because they provide more observations to com
 28.<a id="endnote-28"></a>
    Source: ufotransparency.com  
    Title: intl ca foia part 29 canada foia part 29 pages 8401 8759  
-   Link:<a href="https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages</a>  
+   Link:https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages  
 
 29.<a id="endnote-29"></a>
    Source: youtube.com  

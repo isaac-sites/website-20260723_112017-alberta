@@ -290,9 +290,9 @@ Canada's historical UFO collection preserved by Library and Archives Canada brin
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Department of National Defence (DND)<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[ufotransparency.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl ca foia part 29 canada foia part 29 pages</span><span class="citation-popover-snippet">intl ca foia part 29 canada foia part 29 pages</span></span></span>
+* Department of National Defence (DND)<span class="citation-chip-wrap">[ufotransparency.com]<span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl ca foia part 29 canada foia part 29 pages</span><span class="citation-popover-snippet">intl ca foia part 29 canada foia part 29 pages</span></span></span>
 * Department of Transport (DoT)
-* National Research Council of Canada (NRC)<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[ufotransparency.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl ca foia part 29 canada foia part 29 pages</span><span class="citation-popover-snippet">intl ca foia part 29 canada foia part 29 pages</span></span></span>
+* National Research Council of Canada (NRC)<span class="citation-chip-wrap">[ufotransparency.com]<span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl ca foia part 29 canada foia part 29 pages</span><span class="citation-popover-snippet">intl ca foia part 29 canada foia part 29 pages</span></span></span>
 * Royal Canadian Mounted Police (RCMP)
 
 </div>
@@ -331,7 +331,7 @@ Rather than treating these as independent sightings, researchers often need to r
 
 Each department tended to preserve different pieces of the historical puzzle.
 
-**Department of National Defence**<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[ufotransparency.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl ca foia part 29 canada foia part 29 pages</span><span class="citation-popover-snippet">intl ca foia part 29 canada foia part 29 pages</span></span></span>
+**Department of National Defence**<span class="citation-chip-wrap">[ufotransparency.com]<span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl ca foia part 29 canada foia part 29 pages</span><span class="citation-popover-snippet">intl ca foia part 29 canada foia part 29 pages</span></span></span>
 
 Defence files generally reflect questions relevant to national security and air defence. They may contain military message traffic, intelligence summaries, requests for information, assessments of whether an observation posed any defence concern, or correspondence with NORAD-related organisations. Many reports received only limited investigation if there was no apparent security implication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[Innovation Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">Open source on canada.ca.</span></span></span>
 
@@ -900,7 +900,7 @@ For that reason, the strongest historical reconstructions usually emerge only af
 7.<a id="endnote-7"></a>
    Source: ised-isde.canada.ca  
    Title: annual report chief science advisor 2024 2025  
-   Link:<a href="https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor</a>  
+   Link:https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Report of the Chief Science Advisor 2024-2025December 17, 2025 — Canada’s Sovereign Airspace: The Sky Canada Project Canada exercises sov...</p></details>
    Published: December 17, 2025  
 
@@ -986,7 +986,7 @@ For that reason, the strongest historical reconstructions usually emerge only af
 23.<a id="endnote-23"></a>
    Source: ufotransparency.com  
    Title: intl ca foia part 29 canada foia part 29 pages 8401 8759  
-   Link:<a href="https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages</a>  
+   Link:https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages  
 
 24.<a id="endnote-24"></a>
    Source: science.gc.ca  

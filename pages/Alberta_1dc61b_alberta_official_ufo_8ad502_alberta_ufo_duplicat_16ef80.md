@@ -338,7 +338,7 @@ This administrative history creates one of the most common traps for researchers
 
 Suppose an Alberta incident appears in:
 
-* an RCMP report, * a Department of National Defence memorandum,<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[ufotransparency.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl ca foia part 29 canada foia part 29 pages</span><span class="citation-popover-snippet">intl ca foia part 29 canada foia part 29 pages</span></span></span> * a Department of Transport file,<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[ufotransparency.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl ca foia part 29 canada foia part 29 pages</span><span class="citation-popover-snippet">intl ca foia part 29 canada foia part 29 pages</span></span></span>
+* an RCMP report, * a Department of National Defence memorandum,<span class="citation-chip-wrap">[ufotransparency.com]<span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl ca foia part 29 canada foia part 29 pages</span><span class="citation-popover-snippet">intl ca foia part 29 canada foia part 29 pages</span></span></span> * a Department of Transport file,<span class="citation-chip-wrap">[ufotransparency.com]<span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl ca foia part 29 canada foia part 29 pages</span><span class="citation-popover-snippet">intl ca foia part 29 canada foia part 29 pages</span></span></span>
 * and an NRC assessment.
 
 At first glance, that can resemble four separate investigations or four independent confirmations.
@@ -938,7 +938,7 @@ For Alberta's historical UFO record, the safest interpretation is straightforwar
 25.<a id="endnote-25"></a>
    Source: ufotransparency.com  
    Title: intl ca foia part 29 canada foia part 29 pages 8401 8759  
-   Link:<a href="https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages</a>  
+   Link:https://ufotransparency.com/files/intl-ca-foia-part-29-canada-foia-part-29-pages  
 
 26.<a id="endnote-26"></a>
    Source: youtube.com  

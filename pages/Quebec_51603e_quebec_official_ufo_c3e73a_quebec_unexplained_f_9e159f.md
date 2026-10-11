@@ -865,7 +865,7 @@ That makes unresolved Quebec files historically valuable. They reveal how Canadi
 6.<a id="endnote-6"></a>
    Source: science.gc.ca  
    Title: annual report chief science advisor 2024 2025  
-   Link:<a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor</a>  
+   Link:https://science.gc.ca/site/science/en/office-chief-science-advisor/annual-reports/annual-report-chief-science-advisor  
 
 7.<a id="endnote-7"></a>
    Source: archives.gov  
