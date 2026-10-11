@@ -1,11 +1,11 @@
 ---
-title: UFO Archives Sub-Topic Index
-title_full: UFO Archives Sub-Topic Index
+title: "Ontario UFO Archives Sub-Topic Index"
+title_full: "Ontario UFO Archives Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ontario-f9f742-ontario-ufo-archives/
-description: Focused pages that expand on UFO Archives.
+description: "Focused pages that expand on UFO Archives - Ontario."
 date: '2026'
 last_modified_at: '2026'
 layout: default

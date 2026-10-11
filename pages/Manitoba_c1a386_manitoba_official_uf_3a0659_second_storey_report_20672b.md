@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-manitobas-ufo/
 - /official-records/
 nav_short_title: Second Storey
-title: Why Canada's UFO Reporting Form Never Took Hold
+title: "Why Canada's UFO Reporting Form Never Took Hold - Manitoba"
 title_full: Why Canada's UFO Reporting Form Never Took Hold | Official Records
 display_title_short: Second Storey
 display_title: Second Storey
